@@ -1,0 +1,30 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "taskName": "运行当前程序",
+            "type": "shell",
+            "command": "ipython ${file} --pdb",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "focus": true
+            }
+        },
+        {
+            "taskName": "在虚拟环境中运行",
+            "type": "shell",
+            "command": "activate root | python ${file}",
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

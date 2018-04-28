@@ -1,0 +1,17 @@
+[MESSAGES CONTROL]
+
+# Enable the message, report, category or checker with the given id(s). You can
+# either give multiple identifier separated by comma (,) or put this option
+# multiple time.
+#enable=
+
+# Disable the message, report, category or checker with the given id(s). You
+# can either give multiple identifier separated by comma (,) or put this option
+# multiple time (only on the command line, not in the configuration file where
+# it should appear only once).
+disable= C0103, C0301, C0111
+
+# C0103: 变量名不合法 如e:except Exception as e:
+# C0301: 单行太长
+# C0111: Missing module docstring
+# E0213: Method should have "self" as first argument

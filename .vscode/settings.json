@@ -1,0 +1,15 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.promptToConfigure": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.pythonPath": "C:\\Users\\tianheguoyun\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+}

@@ -1,0 +1,1171 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARTICLE_COL_NAME	../weixinart\config.py	/^ARTICLE_COL_NAME = 'pyspider'$/;"	kind:variable	line:14
+ATTACHMENT	../itchatResource\ItChat\itchat\content.py	/^ATTACHMENT = 'Attachment'$/;"	kind:variable	line:8
+AbstractUserDict	../itchatResource\ItChat\itchat\storage\templates.py	/^class AbstractUserDict(AttributeDict):$/;"	kind:class	line:68
+ActionChains	../TBmeishi\spider.py	/^from selenium.webdriver import ActionChains$/;"	kind:namespace	line:13
+AttributeDict	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^from .templates import AttributeDict$/;"	kind:namespace	line:7
+AttributeDict	../itchatResource\ItChat\itchat\storage\templates.py	/^class AttributeDict(dict):$/;"	kind:class	line:9
+BACKGROUND_BLUE	../myTool\Pcolor.py	/^BACKGROUND_BLUE = 0x10  # background color contains blue.$/;"	kind:variable	line:11
+BACKGROUND_BLUE	../test\tool\Pcolor.py	/^BACKGROUND_BLUE = 0x10 # background color contains blue.$/;"	kind:variable	line:11
+BACKGROUND_BLUE	../test\tool\Pcolor_class.py	/^BACKGROUND_BLUE = 0x10 # background color contains blue.$/;"	kind:variable	line:12
+BACKGROUND_GREEN	../myTool\Pcolor.py	/^BACKGROUND_GREEN = 0x20  # background color contains green.$/;"	kind:variable	line:12
+BACKGROUND_GREEN	../test\tool\Pcolor.py	/^BACKGROUND_GREEN= 0x20 # background color contains green.$/;"	kind:variable	line:12
+BACKGROUND_GREEN	../test\tool\Pcolor_class.py	/^BACKGROUND_GREEN= 0x20 # background color contains green.$/;"	kind:variable	line:13
+BACKGROUND_INTENSITY	../myTool\Pcolor.py	/^BACKGROUND_INTENSITY = 0x80  # background color is intensified.$/;"	kind:variable	line:14
+BACKGROUND_INTENSITY	../test\tool\Pcolor.py	/^BACKGROUND_INTENSITY = 0x80 # background color is intensified.$/;"	kind:variable	line:14
+BACKGROUND_INTENSITY	../test\tool\Pcolor_class.py	/^BACKGROUND_INTENSITY = 0x80 # background color is intensified.$/;"	kind:variable	line:15
+BACKGROUND_RED	../myTool\Pcolor.py	/^BACKGROUND_RED = 0x40  # background color contains red.$/;"	kind:variable	line:13
+BACKGROUND_RED	../test\tool\Pcolor.py	/^BACKGROUND_RED = 0x40 # background color contains red.$/;"	kind:variable	line:13
+BACKGROUND_RED	../test\tool\Pcolor_class.py	/^BACKGROUND_RED = 0x40 # background color contains red.$/;"	kind:variable	line:14
+BASE_URL	../itchatResource\ItChat\itchat\config.py	/^BASE_URL = 'https:\/\/login.weixin.qq.com'$/;"	kind:variable	line:4
+BLOCK	../itchatResource\ItChat\itchat\utils.py	/^    BLOCK = 'MM'$/;"	kind:variable	line:21
+BLOCK	../itchatResource\ItChat\itchat\utils.py	/^    BLOCK = b$/;"	kind:variable	line:23
+BOT_NAME	../qianXiMap\qianXiMap\settings.py	/^BOT_NAME = 'qianXiMap'$/;"	kind:variable	line:12
+BOT_NAME	../tutorial\tutorial\settings.py	/^BOT_NAME = 'tutorial'$/;"	kind:variable	line:12
+BadStatusLine	../itchatResource\ItChat\itchat\components\login.py	/^    from http.client import BadStatusLine$/;"	kind:namespace	line:9
+BadStatusLine	../itchatResource\ItChat\itchat\components\login.py	/^    from httplib import BadStatusLine$/;"	kind:namespace	line:7
+BeautifulSoup	../ProxyPool\examples\example.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../TBmeishi\spider.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:6
+BeautifulSoup	../jiepai\spider.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:13
+BeautifulSoup	../test\crawler.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:2
+By	../TBmeishi\spider.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:14
+CARD	../itchatResource\ItChat\itchat\content.py	/^CARD       = 'Card'$/;"	kind:variable	line:3
+COOKIE	../weixinart\test.py	/^from config import HEADERS, COOKIE$/;"	kind:namespace	line:3
+Chatroom	../itchatResource\ItChat\itchat\storage\templates.py	/^class Chatroom(AbstractUserDict):$/;"	kind:class	line:176
+ChatroomMember	../itchatResource\ItChat\itchat\storage\templates.py	/^class ChatroomMember(AbstractUserDict):$/;"	kind:class	line:250
+ChunkedEncodingError	../ProxyPool\examples\example_round_proxy.py	/^from requests.exceptions import ProxyError,Timeout,ConnectionError,ChunkedEncodingError$/;"	kind:namespace	line:2
+ClientConnectorError	../ProxyPool\proxypool\schedule.py	/^    from aiohttp import ClientProxyConnectionError as ProxyConnectionError,ServerDisconnectedError,ClientResponseError,ClientConnectorError$/;"	kind:namespace	line:8
+ClientConnectorError	../ProxyPool\proxypool\schedule.py	/^    from aiohttp.errors import ProxyConnectionError,ServerDisconnectedError,ClientResponseError,ClientConnectorError$/;"	kind:namespace	line:6
+ClientResponseError	../ProxyPool\proxypool\schedule.py	/^    from aiohttp import ClientProxyConnectionError as ProxyConnectionError,ServerDisconnectedError,ClientResponseError,ClientConnectorError$/;"	kind:namespace	line:8
+ClientResponseError	../ProxyPool\proxypool\schedule.py	/^    from aiohttp.errors import ProxyConnectionError,ServerDisconnectedError,ClientResponseError,ClientConnectorError$/;"	kind:namespace	line:6
+Color	../test\tool\Pcolor_class.py	/^class Color:$/;"	kind:class	line:16
+ConnectionError	../ProxyPool\examples\example_round_proxy.py	/^from requests.exceptions import ProxyError,Timeout,ConnectionError,ChunkedEncodingError$/;"	kind:namespace	line:2
+ConnectionError	../ProxyPool\proxypool\utils.py	/^from requests.exceptions import ConnectionError$/;"	kind:namespace	line:4
+ContactList	../itchatResource\ItChat\itchat\storage\templates.py	/^class ContactList(list):$/;"	kind:class	line:29
+Core	../itchatResource\ItChat\itchat\__init__.py	/^from .core import Core$/;"	kind:namespace	line:2
+Core	../itchatResource\ItChat\itchat\core.py	/^class Core(object):$/;"	kind:class	line:8
+DB_NAME	../jiepai\config.py	/^DB_NAME = 'jiepai.sqlite'$/;"	kind:variable	line:2
+DEFAULT_QR	../itchatResource\ItChat\itchat\config.py	/^DEFAULT_QR = 'QR.png'$/;"	kind:variable	line:7
+DEFAULT_REQUEST_HEADERS	../qianXiMap\qianXiMap\settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	kind:variable	line:42
+DIR	../itchatResource\ItChat\itchat\config.py	/^DIR = os.getcwd()$/;"	kind:variable	line:6
+DatabaseError	../jiepai\spider.py	/^from pandas.io.sql import DatabaseError$/;"	kind:namespace	line:10
+Downloader	../ProxyPool\proxypool\utils.py	/^class Downloader(object):$/;"	kind:class	line:27
+DropItem	../qianXiMap\qianXiMap\pipelines.py	/^from scrapy.exceptions import DropItem$/;"	kind:namespace	line:9
+DuplicatesPipeline	../qianXiMap\qianXiMap\pipelines.py	/^class DuplicatesPipeline(object):$/;"	kind:class	line:11
+EC	../TBmeishi\spider.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:16
+FILTERED_CITY	../qianXiMap\qianXiMap\settings.py	/^FILTERED_CITY = 'D:\\\\pythonData\\\\qianximap\\\\city.xlsx'$/;"	kind:variable	line:97
+FILTERED_DATA	../qianXiMap\qianXiMap\settings.py	/^FILTERED_DATA = 'D:\\\\pythonData\\\\qianximap\\\\filtereddata.xlsx'$/;"	kind:variable	line:96
+FOREGROUND_BLACK	../myTool\Pcolor.py	/^FOREGROUND_BLACK = 0x0$/;"	kind:variable	line:6
+FOREGROUND_BLACK	../test\tool\Pcolor.py	/^FOREGROUND_BLACK = 0x0$/;"	kind:variable	line:6
+FOREGROUND_BLACK	../test\tool\Pcolor_class.py	/^FOREGROUND_BLACK = 0x0$/;"	kind:variable	line:7
+FOREGROUND_BLUE	../myTool\Pcolor.py	/^FOREGROUND_BLUE = 0x01  # text color contains blue.$/;"	kind:variable	line:7
+FOREGROUND_BLUE	../test\tool\Pcolor.py	/^FOREGROUND_BLUE = 0x01 # text color contains blue.$/;"	kind:variable	line:7
+FOREGROUND_BLUE	../test\tool\Pcolor_class.py	/^FOREGROUND_BLUE = 0x01 # text color contains blue.$/;"	kind:variable	line:8
+FOREGROUND_GREEN	../myTool\Pcolor.py	/^FOREGROUND_GREEN = 0x02  # text color contains green.$/;"	kind:variable	line:8
+FOREGROUND_GREEN	../test\tool\Pcolor.py	/^FOREGROUND_GREEN= 0x02 # text color contains green.$/;"	kind:variable	line:8
+FOREGROUND_GREEN	../test\tool\Pcolor_class.py	/^FOREGROUND_GREEN= 0x02 # text color contains green.$/;"	kind:variable	line:9
+FOREGROUND_INTENSITY	../myTool\Pcolor.py	/^FOREGROUND_INTENSITY = 0x08  # text color is intensified.$/;"	kind:variable	line:10
+FOREGROUND_INTENSITY	../test\tool\Pcolor.py	/^FOREGROUND_INTENSITY = 0x08 # text color is intensified.$/;"	kind:variable	line:10
+FOREGROUND_INTENSITY	../test\tool\Pcolor_class.py	/^FOREGROUND_INTENSITY = 0x08 # text color is intensified.$/;"	kind:variable	line:11
+FOREGROUND_RED	../myTool\Pcolor.py	/^FOREGROUND_RED = 0x04  # text color contains red.$/;"	kind:variable	line:9
+FOREGROUND_RED	../test\tool\Pcolor.py	/^FOREGROUND_RED = 0x04 # text color contains red.$/;"	kind:variable	line:9
+FOREGROUND_RED	../test\tool\Pcolor_class.py	/^FOREGROUND_RED = 0x04 # text color contains red.$/;"	kind:variable	line:10
+FRIENDS	../itchatResource\ItChat\itchat\content.py	/^FRIENDS    = 'Friends'$/;"	kind:variable	line:10
+FULL_DATA	../qianXiMap\qianXiMap\settings.py	/^FULL_DATA = 'D:\\\\pythonData\\\\qianximap\\\\fulldata.xlsx'$/;"	kind:variable	line:95
+Flask	../ProxyPool\proxypool\api.py	/^from flask import Flask, g$/;"	kind:namespace	line:1
+FreeProxyGetter	../ProxyPool\proxypool\getter.py	/^class FreeProxyGetter(object, metaclass=ProxyMetaclass):$/;"	kind:class	line:23
+FreeProxyGetter	../ProxyPool\proxypool\schedule.py	/^from proxypool.getter import FreeProxyGetter$/;"	kind:namespace	line:11
+HEADERS	../myTool\MsessionReq.py	/^    HEADERS = None$/;"	kind:variable	line:17
+HEADERS	../myTool\MsessionReq.py	/^    from config import HEADERS$/;"	kind:namespace	line:15
+HEADERS	../myTool\config.py	/^HEADERS = {$/;"	kind:variable	line:3
+HEADERS	../weixinart\config.py	/^HEADERS = {$/;"	kind:variable	line:1
+HEADERS	../weixinart\test.py	/^from config import HEADERS, COOKIE$/;"	kind:namespace	line:3
+HOST	../ProxyPool\proxypool\db.py	/^from proxypool.setting import HOST, PORT, PASSWORD$/;"	kind:namespace	line:3
+HOST	../ProxyPool\proxypool\setting.py	/^HOST = 'localhost'$/;"	kind:variable	line:2
+HTMLParser	../itchatResource\ItChat\itchat\utils.py	/^    from HTMLParser import HTMLParser$/;"	kind:namespace	line:4
+HTMLParser	../itchatResource\ItChat\itchat\utils.py	/^    from html.parser import HTMLParser$/;"	kind:namespace	line:6
+IMAGE_PATH	../jiepai\config.py	/^IMAGE_PATH = 'F:\\\\Pictures\\\\spider_images\\\\jiepai'$/;"	kind:variable	line:4
+IMGPATH	../bingWallPaper\config.py	/^IMGPATH = "F:\\\\Pictures\\\\bing\\\\"$/;"	kind:variable	line:4
+IMGPATH	../bingWallPaper\spider.py	/^from config import IMGPATH, LASTDAY$/;"	kind:namespace	line:11
+IMG_FILE_NAME	../weixinart\config.py	/^IMG_FILE_NAME = 'code.png'$/;"	kind:variable	line:16
+INCOME_MSG	../itchatResource\ItChat\itchat\content.py	/^INCOME_MSG = [TEXT, MAP, CARD, NOTE, SHARING, PICTURE,$/;"	kind:variable	line:13
+IS_USE_PROXY	../myTool\MsessionReq.py	/^    IS_USE_PROXY = False$/;"	kind:variable	line:25
+IS_USE_PROXY	../myTool\MsessionReq.py	/^    from config import IS_USE_PROXY$/;"	kind:namespace	line:19
+IS_USE_PROXY	../myTool\config.py	/^IS_USE_PROXY = True$/;"	kind:variable	line:11
+IS_USE_PROXY	../weixinart\config.py	/^IS_USE_PROXY = True$/;"	kind:variable	line:9
+ITEM_PIPELINES	../qianXiMap\qianXiMap\settings.py	/^ITEM_PIPELINES = {$/;"	kind:variable	line:68
+ITEM_PIPELINES	../tutorial\tutorial\settings.py	/^ITEM_PIPELINES = {$/;"	kind:variable	line:67
+IntegrityError	../test\sqlite.py	/^from sqlite3 import IntegrityError$/;"	kind:namespace	line:4
+InterfaceError	../jiepai\spider.py	/^from sqlite3 import InterfaceError$/;"	kind:namespace	line:9
+KEYWORD	../TBmeishi\spider.py	/^KEYWORD = '美食'$/;"	kind:variable	line:29
+KEYWORD	../jiepai\config.py	/^KEYWORD = '街拍'$/;"	kind:variable	line:8
+KEYWORD	../weixinart\config.py	/^KEYWORD = 'python爬虫'$/;"	kind:variable	line:15
+Keys	../TBmeishi\spider.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:15
+L	../test\sorted.py	/^L = [('Bob', 75), ('Adam', 92), ('Bart', 66), ('Lisa', 88)]$/;"	kind:variable	line:3
+L2	../test\sorted.py	/^L2 = sorted(L, key = by_name, reverse = True)$/;"	kind:variable	line:4
+LASTDAY	../bingWallPaper\config.py	/^LASTDAY = 20171029$/;"	kind:variable	line:2
+LASTDAY	../bingWallPaper\spider.py	/^from config import IMGPATH, LASTDAY$/;"	kind:namespace	line:11
+Lock	../itchatResource\ItChat\itchat\storage\__init__.py	/^from threading import Lock$/;"	kind:namespace	line:2
+LogSystem	../itchatResource\ItChat\itchat\log.py	/^class LogSystem(object):$/;"	kind:class	line:3
+MAP	../itchatResource\ItChat\itchat\content.py	/^MAP        = 'Map'$/;"	kind:variable	line:2
+MassivePlatform	../itchatResource\ItChat\itchat\storage\templates.py	/^class MassivePlatform(AbstractUserDict):$/;"	kind:class	line:168
+Message	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^class Message(AttributeDict):$/;"	kind:class	line:15
+Mproxy	../myTool\Mproxy.py	/^class Mproxy:$/;"	kind:class	line:9
+Mproxy	../myTool\MsessionReq.py	/^from myTool.Mproxy import Mproxy$/;"	kind:namespace	line:10
+Mproxy.py	../myTool\Mproxy.py	1;"	kind:file	line:1
+MsessionReq	../myTool\MsessionReq.py	/^class MsessionReq:$/;"	kind:class	line:29
+MsessionReq	../weixinart\spiderPro.py	/^from myTool.MsessionReq import MsessionReq$/;"	kind:namespace	line:17
+MsessionReq.py	../myTool\MsessionReq.py	1;"	kind:file	line:1
+NEWSPIDER_MODULE	../qianXiMap\qianXiMap\settings.py	/^NEWSPIDER_MODULE = 'qianXiMap.spiders'$/;"	kind:variable	line:15
+NEWSPIDER_MODULE	../tutorial\tutorial\settings.py	/^NEWSPIDER_MODULE = 'tutorial.spiders'$/;"	kind:variable	line:15
+NOTE	../itchatResource\ItChat\itchat\content.py	/^NOTE       = 'Note'$/;"	kind:variable	line:4
+NoSuchElementException	../TBmeishi\spider.py	/^from selenium.common.exceptions import (NoSuchElementException,$/;"	kind:namespace	line:11
+OS	../itchatResource\ItChat\itchat\config.py	/^OS = platform.system() # Windows, Linux, Darwin$/;"	kind:variable	line:5
+OrderedDict	../itchatResource\ItChat\itchat\components\messages.py	/^from collections import OrderedDict$/;"	kind:namespace	line:5
+PAGE_END	../jiepai\config.py	/^PAGE_END = 10$/;"	kind:variable	line:6
+PAGE_START	../jiepai\config.py	/^PAGE_START = 0$/;"	kind:variable	line:5
+PASSWORD	../ProxyPool\proxypool\db.py	/^from proxypool.setting import HOST, PORT, PASSWORD$/;"	kind:namespace	line:3
+PASSWORD	../ProxyPool\proxypool\setting.py	/^PASSWORD = None$/;"	kind:variable	line:7
+PICTURE	../itchatResource\ItChat\itchat\content.py	/^PICTURE    = 'Picture'$/;"	kind:variable	line:6
+POOL_LEN_CHECK_CYCLE	../ProxyPool\proxypool\setting.py	/^POOL_LEN_CHECK_CYCLE = 20$/;"	kind:variable	line:18
+POOL_LOWER_THRESHOLD	../ProxyPool\proxypool\setting.py	/^POOL_LOWER_THRESHOLD = 20$/;"	kind:variable	line:13
+POOL_UPPER_THRESHOLD	../ProxyPool\proxypool\setting.py	/^POOL_UPPER_THRESHOLD = 100$/;"	kind:variable	line:14
+PORT	../ProxyPool\proxypool\db.py	/^from proxypool.setting import HOST, PORT, PASSWORD$/;"	kind:namespace	line:3
+PORT	../ProxyPool\proxypool\setting.py	/^PORT = 6379$/;"	kind:variable	line:3
+PROXY_COL_NAME	../myTool\MsessionReq.py	/^        PROXY_COL_NAME = None$/;"	kind:variable	line:23
+PROXY_COL_NAME	../myTool\MsessionReq.py	/^        from config import PROXY_COL_NAME$/;"	kind:namespace	line:21
+PROXY_COL_NAME	../myTool\MsessionReq.py	/^    PROXY_COL_NAME = None$/;"	kind:variable	line:26
+PROXY_COL_NAME	../myTool\config.py	/^PROXY_COL_NAME = 'weixinart'$/;"	kind:variable	line:12
+PROXY_COL_NAME	../weixinart\config.py	/^PROXY_COL_NAME = 'weixinart'$/;"	kind:variable	line:12
+PROXY_DB	../myTool\Mproxy.py	/^from myTool.setting import PROXY_DB, PROXY_GETED_API$/;"	kind:namespace	line:5
+PROXY_DB	../myTool\setting.py	/^PROXY_DB = 'proxy_db'$/;"	kind:variable	line:3
+PROXY_GETED_API	../myTool\Mproxy.py	/^from myTool.setting import PROXY_DB, PROXY_GETED_API$/;"	kind:namespace	line:5
+PROXY_GETED_API	../myTool\setting.py	/^PROXY_GETED_API = 'http:\/\/localhost:5000\/get'$/;"	kind:variable	line:2
+PROXY_GETED_API	../weixinart\config.py	/^PROXY_GETED_API = 'http:\/\/localhost:5000\/get'$/;"	kind:variable	line:24
+Pcolor	../test\crawler.py	/^import Pcolor$/;"	kind:namespace	line:5
+Pcolor.py	../myTool\Pcolor.py	1;"	kind:file	line:1
+Pcolor.py	../test\tool\Pcolor.py	1;"	kind:file	line:1
+Pcolor_class.py	../test\tool\Pcolor_class.py	1;"	kind:file	line:1
+PoolAdder	../ProxyPool\proxypool\schedule.py	/^class PoolAdder(object):$/;"	kind:class	line:61
+PoolEmptyError	../ProxyPool\proxypool\db.py	/^from proxypool.error import PoolEmptyError$/;"	kind:namespace	line:2
+PoolEmptyError	../ProxyPool\proxypool\error.py	/^class PoolEmptyError(Exception):$/;"	kind:class	line:10
+Process	../ProxyPool\proxypool\schedule.py	/^from multiprocessing import Process$/;"	kind:namespace	line:2
+Process	../test\concurrent\multiprocess.py	/^from multiprocessing import Process, Queue$/;"	kind:namespace	line:1
+Process	../test\concurrent\processQueue.py	/^from multiprocessing import Process, Queue$/;"	kind:namespace	line:1
+ProxyConnectionError	../ProxyPool\proxypool\schedule.py	/^    from aiohttp import ClientProxyConnectionError as ProxyConnectionError,ServerDisconnectedError,ClientResponseError,ClientConnectorError$/;"	kind:namespace	line:8
+ProxyConnectionError	../ProxyPool\proxypool\schedule.py	/^    from aiohttp.errors import ProxyConnectionError,ServerDisconnectedError,ClientResponseError,ClientConnectorError$/;"	kind:namespace	line:6
+ProxyError	../ProxyPool\examples\example_round_proxy.py	/^from requests.exceptions import ProxyError,Timeout,ConnectionError,ChunkedEncodingError$/;"	kind:namespace	line:2
+ProxyMetaclass	../ProxyPool\proxypool\getter.py	/^class ProxyMetaclass(type):$/;"	kind:class	line:6
+QRCode	../itchatResource\ItChat\itchat\components\login.py	/^from pyqrcode import QRCode$/;"	kind:namespace	line:12
+QianxiSpider	../qianXiMap\qianXiMap\spiders\qianxi.py	/^class QianxiSpider(scrapy.Spider):$/;"	kind:class	line:10
+QianximapItem	../qianXiMap\qianXiMap\items.py	/^class QianximapItem(scrapy.Item):$/;"	kind:class	line:11
+QianximapItem	../qianXiMap\qianXiMap\spiders\qianxi.py	/^from qianXiMap.items import QianximapItem$/;"	kind:namespace	line:5
+QianximapPipeline	../qianXiMap\qianXiMap\pipelines.py	/^class QianximapPipeline(object):$/;"	kind:class	line:24
+QianximapSpiderMiddleware	../qianXiMap\qianXiMap\middlewares.py	/^class QianximapSpiderMiddleware(object):$/;"	kind:class	line:11
+Queue	../itchatResource\ItChat\itchat\components\register.py	/^    import Queue$/;"	kind:namespace	line:3
+Queue	../itchatResource\ItChat\itchat\components\register.py	/^    import queue as Queue$/;"	kind:namespace	line:5
+Queue	../itchatResource\ItChat\itchat\storage\__init__.py	/^from .messagequeue import Queue$/;"	kind:namespace	line:4
+Queue	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^class Queue(queue.Queue):$/;"	kind:class	line:11
+Queue	../test\concurrent\multiprocess.py	/^from multiprocessing import Process, Queue$/;"	kind:namespace	line:1
+Queue	../test\concurrent\processQueue.py	/^from multiprocessing import Process, Queue$/;"	kind:namespace	line:1
+Queue	../test\concurrent\test2.py	/^from queue import Queue$/;"	kind:namespace	line:2
+Queue	../test\test2.py	/^from queue import Queue$/;"	kind:namespace	line:2
+QuotesSpider	../tutorial\tutorial\spiders\quotes.py	/^class QuotesSpider(scrapy.Spider):$/;"	kind:class	line:5
+ROBOTSTXT_OBEY	../qianXiMap\qianXiMap\settings.py	/^ROBOTSTXT_OBEY = True$/;"	kind:variable	line:22
+ROBOTSTXT_OBEY	../tutorial\tutorial\settings.py	/^ROBOTSTXT_OBEY = True$/;"	kind:variable	line:22
+ReDemo	../test\reTest.py	/^class ReDemo:$/;"	kind:class	line:8
+RedisClient	../ProxyPool\proxypool\api.py	/^from .db import RedisClient$/;"	kind:namespace	line:3
+RedisClient	../ProxyPool\proxypool\db.py	/^class RedisClient(object):$/;"	kind:class	line:6
+RedisClient	../ProxyPool\proxypool\schedule.py	/^from proxypool.db import RedisClient$/;"	kind:namespace	line:9
+RequestException	../TBmeishi\spederRe.py	/^from requests import RequestException$/;"	kind:namespace	line:7
+RequestException	../jiepai\spider.py	/^from requests.exceptions import RequestException$/;"	kind:namespace	line:14
+RequestException	../weixinart\spider.py	/^from requests.exceptions import RequestException$/;"	kind:namespace	line:12
+RequestException	../weixinart\spiderPro.py	/^from requests.exceptions import RequestException$/;"	kind:namespace	line:14
+ResourceDepletionError	../ProxyPool\proxypool\error.py	/^class ResourceDepletionError(Exception):$/;"	kind:class	line:1
+ResourceDepletionError	../ProxyPool\proxypool\schedule.py	/^from proxypool.error import ResourceDepletionError$/;"	kind:namespace	line:10
+ReturnValue	../itchatResource\ItChat\itchat\components\contact.py	/^from ..returnvalues import ReturnValue$/;"	kind:namespace	line:8
+ReturnValue	../itchatResource\ItChat\itchat\components\hotreload.py	/^from ..returnvalues import ReturnValue$/;"	kind:namespace	line:7
+ReturnValue	../itchatResource\ItChat\itchat\components\login.py	/^from ..returnvalues import ReturnValue$/;"	kind:namespace	line:15
+ReturnValue	../itchatResource\ItChat\itchat\components\messages.py	/^from ..returnvalues import ReturnValue$/;"	kind:namespace	line:10
+ReturnValue	../itchatResource\ItChat\itchat\returnvalues.py	/^class ReturnValue(dict):$/;"	kind:class	line:6
+ReturnValue	../itchatResource\ItChat\itchat\storage\templates.py	/^from ..returnvalues import ReturnValue$/;"	kind:namespace	line:4
+SHARING	../itchatResource\ItChat\itchat\content.py	/^SHARING    = 'Sharing'$/;"	kind:variable	line:5
+SPIDER_MODULES	../qianXiMap\qianXiMap\settings.py	/^SPIDER_MODULES = ['qianXiMap.spiders']$/;"	kind:variable	line:14
+SPIDER_MODULES	../tutorial\tutorial\settings.py	/^SPIDER_MODULES = ['tutorial.spiders']$/;"	kind:variable	line:14
+STD_ERROR_HANDLE	../myTool\Pcolor.py	/^STD_ERROR_HANDLE = -12$/;"	kind:variable	line:5
+STD_ERROR_HANDLE	../test\tool\Pcolor.py	/^STD_ERROR_HANDLE = -12$/;"	kind:variable	line:5
+STD_ERROR_HANDLE	../test\tool\Pcolor_class.py	/^STD_ERROR_HANDLE = -12$/;"	kind:variable	line:6
+STD_INPUT_HANDLE	../myTool\Pcolor.py	/^STD_INPUT_HANDLE = -10$/;"	kind:variable	line:3
+STD_INPUT_HANDLE	../test\tool\Pcolor.py	/^STD_INPUT_HANDLE = -10$/;"	kind:variable	line:3
+STD_INPUT_HANDLE	../test\tool\Pcolor_class.py	/^STD_INPUT_HANDLE = -10$/;"	kind:variable	line:4
+STD_OUTPUT_HANDLE	../myTool\Pcolor.py	/^STD_OUTPUT_HANDLE = -11$/;"	kind:variable	line:4
+STD_OUTPUT_HANDLE	../test\tool\Pcolor.py	/^STD_OUTPUT_HANDLE= -11$/;"	kind:variable	line:4
+STD_OUTPUT_HANDLE	../test\tool\Pcolor_class.py	/^STD_OUTPUT_HANDLE= -11$/;"	kind:variable	line:5
+SYSTEM	../itchatResource\ItChat\itchat\content.py	/^SYSTEM     = 'System'$/;"	kind:variable	line:11
+Schedule	../ProxyPool\proxypool\schedule.py	/^class Schedule(object):$/;"	kind:class	line:99
+Schedule	../ProxyPool\run.py	/^from proxypool.schedule import Schedule$/;"	kind:namespace	line:2
+Screen	../test\property.py	/^class Screen:$/;"	kind:class	line:1
+ServerDisconnectedError	../ProxyPool\proxypool\schedule.py	/^    from aiohttp import ClientProxyConnectionError as ProxyConnectionError,ServerDisconnectedError,ClientResponseError,ClientConnectorError$/;"	kind:namespace	line:8
+ServerDisconnectedError	../ProxyPool\proxypool\schedule.py	/^    from aiohttp.errors import ProxyConnectionError,ServerDisconnectedError,ClientResponseError,ClientConnectorError$/;"	kind:namespace	line:6
+Storage	../itchatResource\ItChat\itchat\storage\__init__.py	/^class Storage(object):$/;"	kind:class	line:15
+TABLE_NAME	../jiepai\config.py	/^TABLE_NAME = 'beauti'$/;"	kind:variable	line:3
+TEST_API	../ProxyPool\proxypool\setting.py	/^TEST_API='https:\/\/www.baidu.com'$/;"	kind:variable	line:21
+TEXT	../itchatResource\ItChat\itchat\content.py	/^TEXT       = 'Text'$/;"	kind:variable	line:1
+TIMEOUT	../itchatResource\ItChat\itchat\config.py	/^TIMEOUT = (10, 60)$/;"	kind:variable	line:8
+TRANSLATE	../itchatResource\ItChat\itchat\returnvalues.py	/^TRANSLATE = 'Chinese'$/;"	kind:variable	line:4
+TRANSLATION	../itchatResource\ItChat\itchat\returnvalues.py	/^TRANSLATION = {$/;"	kind:variable	line:58
+Thread	../test\concurrent\test2.py	/^from threading import Thread$/;"	kind:namespace	line:1
+Timeout	../ProxyPool\examples\example_round_proxy.py	/^from requests.exceptions import ProxyError,Timeout,ConnectionError,ChunkedEncodingError$/;"	kind:namespace	line:2
+TimeoutError	../ProxyPool\proxypool\schedule.py	/^from asyncio import TimeoutError$/;"	kind:namespace	line:13
+TutorialItem	../tutorial\tutorial\items.py	/^class TutorialItem(scrapy.Item):$/;"	kind:class	line:11
+TutorialPipeline	../tutorial\tutorial\pipelines.py	/^class TutorialPipeline(object):$/;"	kind:class	line:9
+TutorialSpiderMiddleware	../tutorial\tutorial\middlewares.py	/^class TutorialSpiderMiddleware(object):$/;"	kind:class	line:11
+URL	../TBmeishi\spider.py	/^URL = 'https:\/\/www.taobao.com'$/;"	kind:variable	line:28
+USERCOOKIE	../weixinart\config.py	/^USERCOOKIE = {$/;"	kind:variable	line:18
+USER_AGENT	../itchatResource\ItChat\itchat\config.py	/^USER_AGENT = 'Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/54.0.2840.71 Safari\/537.36'$/;"	kind:variable	line:10
+UnInitializedItchat	../itchatResource\ItChat\itchat\storage\templates.py	/^class UnInitializedItchat(object):$/;"	kind:class	line:23
+User	../itchatResource\ItChat\itchat\storage\templates.py	/^class User(AbstractUserDict):$/;"	kind:class	line:144
+UserAgent	../ProxyPool\examples\example_round_proxy.py	/^from fake_useragent import UserAgent$/;"	kind:namespace	line:4
+UserAgent	../ProxyPool\proxypool\utils.py	/^from fake_useragent import UserAgent$/;"	kind:namespace	line:5
+UserAgent	../myTool\MsessionReq.py	/^from fake_useragent import UserAgent$/;"	kind:namespace	line:8
+VALIDATE_IMG_URL	../weixinart\config.py	/^VALIDATE_IMG_URL = 'http:\/\/weixin.sogou.com\/antispider\/util\/seccode.php'$/;"	kind:variable	line:27
+VALIDATE_POST_URL	../weixinart\config.py	/^VALIDATE_POST_URL = 'http:\/\/weixin.sogou.com\/antispider\/thank.php'$/;"	kind:variable	line:26
+VALIDATE_SUV_URL	../weixinart\config.py	/^VALIDATE_SUV_URL = 'http:\/\/pb.sogou.com\/pv.gif'$/;"	kind:variable	line:28
+VALID_CHECK_CYCLE	../ProxyPool\proxypool\setting.py	/^VALID_CHECK_CYCLE = 60$/;"	kind:variable	line:17
+VERSION	../itchatResource\ItChat\itchat\__init__.py	/^from .config import VERSION$/;"	kind:namespace	line:3
+VERSION	../itchatResource\ItChat\itchat\components\hotreload.py	/^from ..config import VERSION$/;"	kind:namespace	line:6
+VERSION	../itchatResource\ItChat\itchat\config.py	/^VERSION = '1.3.9'$/;"	kind:variable	line:3
+VIDEO	../itchatResource\ItChat\itchat\content.py	/^VIDEO      = 'Video'$/;"	kind:variable	line:9
+ValidityTester	../ProxyPool\proxypool\schedule.py	/^class ValidityTester(object):$/;"	kind:class	line:16
+WHETHER_LOGIN	../weixinart\spider.py	/^WHETHER_LOGIN = False$/;"	kind:variable	line:26
+WHETHER_VALIDATE	../weixinart\spider.py	/^WHETHER_VALIDATE = True$/;"	kind:variable	line:24
+WebDriverWait	../TBmeishi\spider.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:17
+__all__	../ProxyPool\proxypool\api.py	/^__all__ = ['app']$/;"	kind:variable	line:5
+__bool__	../itchatResource\ItChat\itchat\returnvalues.py	/^    def __bool__(self):$/;"	kind:member	line:50
+__deepcopy__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __deepcopy__(self, memo):$/;"	kind:member	line:127
+__deepcopy__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __deepcopy__(self, memo):$/;"	kind:member	line:159
+__deepcopy__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __deepcopy__(self, memo):$/;"	kind:member	line:51
+__del__	../myTool\Mproxy.py	/^    def __del__(self):$/;"	kind:member	line:63
+__del__	../myTool\MsessionReq.py	/^    def __del__(self):$/;"	kind:member	line:200
+__fix_miss_match	../itchatResource\ItChat\itchat\utils.py	/^        def __fix_miss_match(m):$/;"	kind:function	line:45
+__getattr__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __getattr__(self, value):$/;"	kind:member	line:10
+__getattr__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __getattr__(self, value):$/;"	kind:member	line:26
+__getitem__	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^    def __getitem__(self, value):$/;"	kind:member	line:21
+__getstate__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __getstate__(self):$/;"	kind:member	line:139
+__getstate__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __getstate__(self):$/;"	kind:member	line:57
+__init__	../ProxyPool\proxypool\db.py	/^    def __init__(self, host=HOST, port=PORT):$/;"	kind:member	line:7
+__init__	../ProxyPool\proxypool\error.py	/^    def __init__(self):$/;"	kind:member	line:12
+__init__	../ProxyPool\proxypool\error.py	/^    def __init__(self):$/;"	kind:member	line:3
+__init__	../ProxyPool\proxypool\schedule.py	/^    def __init__(self):$/;"	kind:member	line:19
+__init__	../ProxyPool\proxypool\schedule.py	/^    def __init__(self, threshold):$/;"	kind:member	line:66
+__init__	../ProxyPool\proxypool\utils.py	/^    def __init__(self, urls):$/;"	kind:member	line:32
+__init__	../itchatResource\ItChat\itchat\core.py	/^    def __init__(self):$/;"	kind:member	line:9
+__init__	../itchatResource\ItChat\itchat\log.py	/^    def __init__(self):$/;"	kind:member	line:8
+__init__	../itchatResource\ItChat\itchat\returnvalues.py	/^    def __init__(self, returnValueDict={}, rawResponse=None):$/;"	kind:member	line:24
+__init__	../itchatResource\ItChat\itchat\storage\__init__.py	/^    def __init__(self, core):$/;"	kind:member	line:16
+__init__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:145
+__init__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:169
+__init__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:177
+__init__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:251
+__init__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:31
+__init__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:69
+__init__	../myTool\Mproxy.py	/^    def __init__(self, collection_name=None):$/;"	kind:member	line:11
+__init__	../myTool\MsessionReq.py	/^    def __init__(self, validate=None, usercookies=None, **kw):$/;"	kind:member	line:52
+__init__	../qianXiMap\qianXiMap\pipelines.py	/^    def __init__(self):$/;"	kind:member	line:13
+__init__	../qianXiMap\qianXiMap\pipelines.py	/^    def __init__(self, file_name):$/;"	kind:member	line:26
+__init__	../qianXiMap\qianXiMap\pipelines.py	/^    def __init__(self, file_name):$/;"	kind:member	line:63
+__init__	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    def __init__(self, start_date=None, end_date=None, *args, **kwargs):$/;"	kind:member	line:19
+__init__	../test\decoratorClass.py	/^    def __init__(self, a10):$/;"	kind:member	line:12
+__init__	../test\reTest.py	/^    def __init__(self, master):$/;"	kind:member	line:10
+__init__.py	../ProxyPool\proxypool\__init__.py	1;"	kind:file	line:1
+__init__.py	../itchatResource\ItChat\docs\bootstrap\__init__.py	1;"	kind:file	line:1
+__init__.py	../itchatResource\ItChat\itchat\__init__.py	1;"	kind:file	line:1
+__init__.py	../itchatResource\ItChat\itchat\components\__init__.py	1;"	kind:file	line:1
+__init__.py	../itchatResource\ItChat\itchat\storage\__init__.py	1;"	kind:file	line:1
+__init__.py	../myTool\__init__.py	1;"	kind:file	line:1
+__init__.py	../qianXiMap\qianXiMap\__init__.py	1;"	kind:file	line:1
+__init__.py	../qianXiMap\qianXiMap\spiders\__init__.py	1;"	kind:file	line:1
+__init__.py	../tutorial\tutorial\__init__.py	1;"	kind:file	line:1
+__init__.py	../tutorial\tutorial\spiders\__init__.py	1;"	kind:file	line:1
+__is_validate	../myTool\MsessionReq.py	/^    __is_validate = True$/;"	kind:variable	line:50
+__new__	../ProxyPool\proxypool\getter.py	/^    def __new__(cls, name, bases, attrs):$/;"	kind:member	line:12
+__nonzero__	../itchatResource\ItChat\itchat\returnvalues.py	/^    def __nonzero__(self):$/;"	kind:member	line:48
+__repr__	../itchatResource\ItChat\itchat\returnvalues.py	/^    def __repr__(self):$/;"	kind:member	line:55
+__repr__	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^    def __repr__(self):$/;"	kind:member	line:30
+__repr__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __repr__(self):$/;"	kind:member	line:136
+__repr__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __repr__(self):$/;"	kind:member	line:64
+__setstate__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __setstate__(self, state):$/;"	kind:member	line:141
+__setstate__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __setstate__(self, state):$/;"	kind:member	line:163
+__setstate__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __setstate__(self, state):$/;"	kind:member	line:172
+__setstate__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __setstate__(self, state):$/;"	kind:member	line:245
+__setstate__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __setstate__(self, state):$/;"	kind:member	line:302
+__setstate__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __setstate__(self, state):$/;"	kind:member	line:59
+__str__	../ProxyPool\proxypool\error.py	/^    def __str__(self):$/;"	kind:member	line:15
+__str__	../ProxyPool\proxypool\error.py	/^    def __str__(self):$/;"	kind:member	line:6
+__str__	../itchatResource\ItChat\itchat\returnvalues.py	/^    def __str__(self):$/;"	kind:member	line:52
+__str__	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^    def __str__(self):$/;"	kind:member	line:27
+__str__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __str__(self):$/;"	kind:member	line:133
+__str__	../itchatResource\ItChat\itchat\storage\templates.py	/^    def __str__(self):$/;"	kind:member	line:62
+__version__	../itchatResource\ItChat\itchat\__init__.py	/^__version__ = VERSION$/;"	kind:variable	line:6
+_contact_change	../itchatResource\ItChat\itchat\storage\__init__.py	/^    def _contact_change(core, *args, **kwargs):$/;"	kind:function	line:10
+_emoji_debugger	../itchatResource\ItChat\itchat\utils.py	/^    def _emoji_debugger(d, k):$/;"	kind:function	line:42
+_emoji_formatter	../itchatResource\ItChat\itchat\utils.py	/^    def _emoji_formatter(m):$/;"	kind:function	line:52
+_get_contact	../itchatResource\ItChat\itchat\components\contact.py	/^    def _get_contact(seq=0):$/;"	kind:function	line:268
+_msg_register	../itchatResource\ItChat\itchat\components\register.py	/^    def _msg_register(fn):$/;"	kind:function	line:71
+_prepare_file	../itchatResource\ItChat\itchat\components\messages.py	/^def _prepare_file(fileDir, file_=None):$/;"	kind:function	line:282
+_raise_error	../itchatResource\ItChat\itchat\storage\templates.py	/^    def _raise_error(self, *args, **kwargs):$/;"	kind:member	line:24
+add_friend	../itchatResource\ItChat\itchat\__init__.py	/^add_friend                  = originInstance.add_friend$/;"	kind:variable	line:40
+add_friend	../itchatResource\ItChat\itchat\components\contact.py	/^def add_friend(self, userName, status=2, verifyContent='', autoUpdate=True):$/;"	kind:function	line:354
+add_friend	../itchatResource\ItChat\itchat\core.py	/^    def add_friend(self, userName, status=2, verifyContent='', autoUpdate=True):$/;"	kind:member	line:224
+add_member	../itchatResource\ItChat\itchat\storage\templates.py	/^    def add_member(self, userName):$/;"	kind:member	line:104
+add_member	../itchatResource\ItChat\itchat\storage\templates.py	/^    def add_member(self, userName):$/;"	kind:member	line:211
+add_member_into_chatroom	../itchatResource\ItChat\itchat\__init__.py	/^add_member_into_chatroom    = originInstance.add_member_into_chatroom$/;"	kind:variable	line:45
+add_member_into_chatroom	../itchatResource\ItChat\itchat\components\contact.py	/^def add_member_into_chatroom(self, chatroomUserName, memberList,$/;"	kind:function	line:467
+add_member_into_chatroom	../itchatResource\ItChat\itchat\core.py	/^    def add_member_into_chatroom(self, chatroomUserName, memberList,$/;"	kind:member	line:278
+add_to_queue	../ProxyPool\proxypool\schedule.py	/^    def add_to_queue(self):$/;"	kind:member	line:81
+addoptions	../test\reTest.py	/^    def addoptions(self):$/;"	kind:member	line:73
+aiohttp	../ProxyPool\proxypool\schedule.py	/^import aiohttp$/;"	kind:namespace	line:4
+aiohttp	../ProxyPool\proxypool\utils.py	/^import aiohttp$/;"	kind:namespace	line:3
+airplane	../qianXiMap\qianXiMap\items.py	/^    airplane = scrapy.Field()$/;"	kind:variable	line:19
+api.py	../ProxyPool\proxypool\api.py	1;"	kind:file	line:1
+app	../ProxyPool\proxypool\api.py	/^app = Flask(__name__)$/;"	kind:variable	line:7
+app	../ProxyPool\run.py	/^from proxypool.api import app$/;"	kind:namespace	line:1
+append	../itchatResource\ItChat\itchat\storage\templates.py	/^    def append(self, value):$/;"	kind:member	line:45
+articleDetails	../test\crawler.py	/^articleDetails = []$/;"	kind:variable	line:61
+article_col	../weixinart\spider.py	/^article_col = db.article_col$/;"	kind:variable	line:21
+asyncio	../ProxyPool\proxypool\schedule.py	/^import asyncio$/;"	kind:namespace	line:3
+asyncio	../ProxyPool\proxypool\utils.py	/^import asyncio$/;"	kind:namespace	line:2
+author	../ProxyPool\setup.py	/^    author=['Germey', 'WiseDoge'],$/;"	kind:variable	line:8
+author	../itchatResource\ItChat\setup.py	/^    author='LittleCoder',$/;"	kind:variable	line:26
+author_email	../ProxyPool\setup.py	/^    author_email='cqc@cuiqingcai.com',$/;"	kind:variable	line:9
+author_email	../itchatResource\ItChat\setup.py	/^    author_email='i7meavnktqegm1b@qq.com',$/;"	kind:variable	line:27
+auto_login	../itchatResource\ItChat\itchat\__init__.py	/^auto_login                  = originInstance.auto_login$/;"	kind:variable	line:59
+auto_login	../itchatResource\ItChat\itchat\components\register.py	/^def auto_login(self, hotReload=False, statusStorageDir='itchat.pkl',$/;"	kind:function	line:19
+auto_login	../itchatResource\ItChat\itchat\core.py	/^    def auto_login(self, hotReload=False, statusStorageDir='itchat.pkl',$/;"	kind:member	line:400
+b	../itchatResource\ItChat\itchat\utils.py	/^    b = u'\\u2588'$/;"	kind:variable	line:17
+b	../test\tempCodeRunnerFile.py	/^b = [1, 2, 3, 4, 5 ,6]$/;"	kind:variable	line:1
+base_url	../bingWallPaper\spider.py	/^base_url = 'https:\/\/cn.bing.com\/'$/;"	kind:variable	line:13
+by_name	../test\sorted.py	/^def by_name(t):$/;"	kind:function	line:1
+car	../qianXiMap\qianXiMap\items.py	/^    car = scrapy.Field()$/;"	kind:variable	line:17
+chatroom	../itchatResource\ItChat\itchat\storage\templates.py	/^    def chatroom(self):$/;"	kind:member	line:255
+chatroom	../itchatResource\ItChat\itchat\storage\templates.py	/^    def chatroom(self, value):$/;"	kind:member	line:264
+check_file	../itchatResource\ItChat\itchat\utils.py	/^def check_file(fileDir):$/;"	kind:function	line:71
+check_login	../itchatResource\ItChat\itchat\__init__.py	/^check_login                 = originInstance.check_login$/;"	kind:variable	line:25
+check_login	../itchatResource\ItChat\itchat\components\login.py	/^def check_login(self, uuid=None):$/;"	kind:function	line:126
+check_login	../itchatResource\ItChat\itchat\core.py	/^    def check_login(self, uuid=None):$/;"	kind:member	line:80
+check_pool	../ProxyPool\proxypool\schedule.py	/^    def check_pool(lower_threshold=POOL_LOWER_THRESHOLD,$/;"	kind:member	line:120
+classifiers	../ProxyPool\setup.py	/^    classifiers=[$/;"	kind:variable	line:29
+classifiers	../itchatResource\ItChat\setup.py	/^    classifiers=[$/;"	kind:variable	line:31
+clear_screen	../itchatResource\ItChat\itchat\utils.py	/^def clear_screen():$/;"	kind:function	line:35
+client	../weixinart\spider.py	/^client = pymongo.MongoClient()$/;"	kind:variable	line:19
+close_spider	../qianXiMap\qianXiMap\pipelines.py	/^    def close_spider(self, spider):$/;"	kind:member	line:53
+close_spider	../qianXiMap\qianXiMap\pipelines.py	/^    def close_spider(self, spider):$/;"	kind:member	line:86
+clr	../test\tool\Pcolor_class.py	/^    clr = Color()$/;"	kind:variable	line:45
+con	../TBmeishi\spider.py	/^con = sqlite3.connect('taobao.db')$/;"	kind:variable	line:24
+config	../itchatResource\ItChat\itchat\components\contact.py	/^from .. import config, utils$/;"	kind:namespace	line:7
+config	../itchatResource\ItChat\itchat\components\login.py	/^from .. import config, utils$/;"	kind:namespace	line:14
+config	../itchatResource\ItChat\itchat\components\messages.py	/^from .. import config, utils$/;"	kind:namespace	line:9
+config	../itchatResource\ItChat\itchat\core.py	/^from . import config, storage, utils, log$/;"	kind:namespace	line:5
+config	../itchatResource\ItChat\itchat\utils.py	/^from . import config$/;"	kind:namespace	line:10
+config.py	../bingWallPaper\config.py	1;"	kind:file	line:1
+config.py	../itchatResource\ItChat\itchat\config.py	1;"	kind:file	line:1
+config.py	../jiepai\config.py	1;"	kind:file	line:1
+config.py	../myTool\config.py	1;"	kind:file	line:1
+config.py	../weixinart\config.py	1;"	kind:file	line:1
+configured_reply	../itchatResource\ItChat\itchat\__init__.py	/^configured_reply            = originInstance.configured_reply$/;"	kind:variable	line:60
+configured_reply	../itchatResource\ItChat\itchat\components\register.py	/^def configured_reply(self):$/;"	kind:function	line:38
+configured_reply	../itchatResource\ItChat\itchat\core.py	/^    def configured_reply(self):$/;"	kind:member	line:431
+conn	../ProxyPool\proxypool\db.py	/^    conn = RedisClient()$/;"	kind:variable	line:51
+conn	../jiepai\test.py	/^conn = sqlite3.connect('test.sqlite')$/;"	kind:variable	line:4
+conn	../test\sqlite.py	/^    conn = sqlite3.connect('taobao.db')$/;"	kind:variable	line:7
+contact.py	../itchatResource\ItChat\itchat\components\contact.py	1;"	kind:file	line:1
+contact_change	../itchatResource\ItChat\itchat\components\contact.py	/^from ..storage import contact_change, templates$/;"	kind:namespace	line:9
+contact_change	../itchatResource\ItChat\itchat\storage\__init__.py	/^def contact_change(fn):$/;"	kind:function	line:9
+contact_deep_copy	../itchatResource\ItChat\itchat\utils.py	/^def contact_deep_copy(core, contact):$/;"	kind:function	line:132
+content	../itchatResource\ItChat\itchat\__init__.py	/^from . import content$/;"	kind:namespace	line:1
+content.py	../itchatResource\ItChat\itchat\content.py	1;"	kind:file	line:1
+copy	../itchatResource\ItChat\itchat\components\contact.py	/^import json, copy$/;"	kind:namespace	line:2
+copy	../itchatResource\ItChat\itchat\components\login.py	/^import copy, pickle, random$/;"	kind:namespace	line:4
+copy	../itchatResource\ItChat\itchat\storage\__init__.py	/^import os, time, copy$/;"	kind:namespace	line:1
+copy	../itchatResource\ItChat\itchat\storage\templates.py	/^import logging, copy, pickle$/;"	kind:namespace	line:1
+copy	../itchatResource\ItChat\itchat\utils.py	/^import re, os, sys, subprocess, copy, traceback, logging$/;"	kind:namespace	line:1
+core	../itchatResource\ItChat\itchat\storage\templates.py	/^    def core(self):$/;"	kind:member	line:191
+core	../itchatResource\ItChat\itchat\storage\templates.py	/^    def core(self):$/;"	kind:member	line:35
+core	../itchatResource\ItChat\itchat\storage\templates.py	/^    def core(self):$/;"	kind:member	line:72
+core	../itchatResource\ItChat\itchat\storage\templates.py	/^    def core(self, value):$/;"	kind:member	line:194
+core	../itchatResource\ItChat\itchat\storage\templates.py	/^    def core(self, value):$/;"	kind:member	line:38
+core	../itchatResource\ItChat\itchat\storage\templates.py	/^    def core(self, value):$/;"	kind:member	line:75
+core.py	../itchatResource\ItChat\itchat\core.py	1;"	kind:file	line:1
+count	../ProxyPool\examples\example_round_proxy.py	/^        count = count + 1$/;"	kind:variable	line:57
+count	../ProxyPool\examples\example_round_proxy.py	/^    count = 1$/;"	kind:variable	line:54
+count	../qianXiMap\qianXiMap\items.py	/^    count = scrapy.Field()$/;"	kind:variable	line:16
+crawl	../ProxyPool\examples\example.py	/^def crawl(url, proxy):$/;"	kind:function	line:16
+crawl	../ProxyPool\examples\example_round_proxy.py	/^def crawl(url, proxy):$/;"	kind:function	line:17
+crawl_daili66	../ProxyPool\proxypool\getter.py	/^    def crawl_daili66(self, page_count=4):$/;"	kind:member	line:66
+crawl_data5u	../ProxyPool\proxypool\getter.py	/^    def crawl_data5u(self):$/;"	kind:member	line:104
+crawl_goubanjia	../ProxyPool\proxypool\getter.py	/^    def crawl_goubanjia(self):$/;"	kind:member	line:94
+crawl_ip181	../ProxyPool\proxypool\getter.py	/^    def crawl_ip181(self):$/;"	kind:member	line:32
+crawl_ip3366	../ProxyPool\proxypool\getter.py	/^    def crawl_ip3366(self):$/;"	kind:member	line:54
+crawl_kxdaili	../ProxyPool\proxypool\getter.py	/^    def crawl_kxdaili(self):$/;"	kind:member	line:115
+crawl_premproxy	../ProxyPool\proxypool\getter.py	/^    def crawl_premproxy(self):$/;"	kind:member	line:127
+crawl_proxy360	../ProxyPool\proxypool\getter.py	/^    def crawl_proxy360(self):$/;"	kind:member	line:81
+crawl_xicidaili	../ProxyPool\proxypool\getter.py	/^    def crawl_xicidaili(self):$/;"	kind:member	line:43
+crawl_xroxy	../ProxyPool\proxypool\getter.py	/^    def crawl_xroxy(self):$/;"	kind:member	line:137
+crawler.py	../test\crawler.py	1;"	kind:file	line:1
+create_chatroom	../itchatResource\ItChat\itchat\__init__.py	/^create_chatroom             = originInstance.create_chatroom$/;"	kind:variable	line:42
+create_chatroom	../itchatResource\ItChat\itchat\components\contact.py	/^def create_chatroom(self, memberList, topic=''):$/;"	kind:function	line:425
+create_chatroom	../itchatResource\ItChat\itchat\core.py	/^    def create_chatroom(self, memberList, topic=''):$/;"	kind:member	line:245
+ctypes	../myTool\Pcolor.py	/^import ctypes$/;"	kind:namespace	line:2
+ctypes	../test\tool\Pcolor.py	/^import ctypes$/;"	kind:namespace	line:2
+ctypes	../test\tool\Pcolor_class.py	/^import ctypes$/;"	kind:namespace	line:3
+cursor	../TBmeishi\spider.py	/^cursor = con.cursor()$/;"	kind:variable	line:26
+cursor	../jiepai\test.py	/^cursor = conn.cursor()$/;"	kind:variable	line:12
+cursor	../jiepai\test.py	/^cursor = conn.cursor()$/;"	kind:variable	line:5
+customer	../test\concurrent\test2.py	/^def customer(que):$/;"	kind:function	line:6
+dataList	../test\crawler.py	/^    dataList = jd['result']['data']$/;"	kind:variable	line:65
+date	../bingWallPaper\spider.py	/^from datetime import date, timedelta$/;"	kind:namespace	line:10
+date	../qianXiMap\qianXiMap\items.py	/^    date = scrapy.Field()$/;"	kind:variable	line:20
+date	../qianXiMap\qianXiMap\spiders\qianxi.py	/^from datetime import date, timedelta$/;"	kind:namespace	line:4
+dates	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    dates = []$/;"	kind:variable	line:16
+datetime	../test\crawler.py	/^from datetime import datetime$/;"	kind:namespace	line:3
+db	../weixinart\spider.py	/^db = client.wechat_article_db$/;"	kind:variable	line:20
+db.py	../ProxyPool\proxypool\db.py	1;"	kind:file	line:1
+decorator	../test\decorator_test.py	/^    def decorator(func):$/;"	kind:function	line:4
+decoratorClass.py	../test\decoratorClass.py	1;"	kind:file	line:1
+decorator_test.py	../test\decorator_test.py	1;"	kind:file	line:1
+delete_member	../itchatResource\ItChat\itchat\storage\templates.py	/^    def delete_member(self, userName):$/;"	kind:member	line:209
+delete_member	../itchatResource\ItChat\itchat\storage\templates.py	/^    def delete_member(self, userName):$/;"	kind:member	line:270
+delete_member	../itchatResource\ItChat\itchat\storage\templates.py	/^    def delete_member(self, userName):$/;"	kind:member	line:99
+delete_member_from_chatroom	../itchatResource\ItChat\itchat\__init__.py	/^delete_member_from_chatroom = originInstance.delete_member_from_chatroom$/;"	kind:variable	line:44
+delete_member_from_chatroom	../itchatResource\ItChat\itchat\components\contact.py	/^def delete_member_from_chatroom(self, chatroomUserName, memberList):$/;"	kind:function	line:454
+delete_member_from_chatroom	../itchatResource\ItChat\itchat\core.py	/^    def delete_member_from_chatroom(self, chatroomUserName, memberList):$/;"	kind:member	line:266
+description	../ProxyPool\setup.py	/^    description='High performance proxy pool',$/;"	kind:variable	line:6
+description	../itchatResource\ItChat\setup.py	/^    description='A complete wechat personal account api',$/;"	kind:variable	line:21
+df	../test\crawler.py	/^df = pandas.DataFrame(articleDetails)$/;"	kind:variable	line:77
+dir	../ProxyPool\examples\example.py	/^dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:6
+dom	../itchatResource\ItChat\itchat\components\login.py	/^import json, xml.dom.minidom$/;"	kind:namespace	line:3
+download	../ProxyPool\proxypool\utils.py	/^    def download(self):$/;"	kind:member	line:41
+download	../bingWallPaper\spider.py	/^def download(img_infoes):$/;"	kind:function	line:96
+download	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^    def download(self, fileName):$/;"	kind:member	line:16
+download_atta	../itchatResource\ItChat\itchat\components\messages.py	/^                def download_atta(attaDir=None):$/;"	kind:function	line:147
+download_fn	../itchatResource\ItChat\itchat\components\messages.py	/^    def download_fn(downloadDir=None):$/;"	kind:function	line:27
+download_image	../jiepai\spider.py	/^def download_image(url):$/;"	kind:function	line:42
+download_single_page	../ProxyPool\proxypool\utils.py	/^    async def download_single_page(self, url):$/;"	kind:member	line:36
+download_video	../itchatResource\ItChat\itchat\components\messages.py	/^            def download_video(videoDir=None):$/;"	kind:function	line:122
+driver	../TBmeishi\spider.py	/^driver = webdriver.PhantomJS(service_args=service_args)$/;"	kind:variable	line:20
+dump_login_status	../itchatResource\ItChat\itchat\__init__.py	/^dump_login_status           = originInstance.dump_login_status$/;"	kind:variable	line:56
+dump_login_status	../itchatResource\ItChat\itchat\components\hotreload.py	/^def dump_login_status(self, fileDir=None):$/;"	kind:function	line:18
+dump_login_status	../itchatResource\ItChat\itchat\core.py	/^    def dump_login_status(self, fileDir=None):$/;"	kind:member	line:381
+dumps	../itchatResource\ItChat\itchat\storage\__init__.py	/^    def dumps(self):$/;"	kind:member	line:31
+emojiRegex	../itchatResource\ItChat\itchat\utils.py	/^emojiRegex = re.compile(r'<span class="emoji emoji(.{1,10})"><\/span>')$/;"	kind:variable	line:14
+emoji_formatter	../itchatResource\ItChat\itchat\utils.py	/^def emoji_formatter(d, k):$/;"	kind:function	line:38
+enclosure.py	../test\enclosure.py	1;"	kind:file	line:1
+end_adr	../qianXiMap\qianXiMap\items.py	/^    end_adr = scrapy.Field()$/;"	kind:variable	line:15
+entry_points	../ProxyPool\setup.py	/^    entry_points={$/;"	kind:variable	line:24
+error.py	../ProxyPool\proxypool\error.py	1;"	kind:file	line:1
+example.py	../ProxyPool\examples\example.py	1;"	kind:file	line:1
+example_round_proxy.py	../ProxyPool\examples\example_round_proxy.py	1;"	kind:file	line:1
+exe	../test\decoratorClass.py	/^    def exe(self, a3):$/;"	kind:member	line:31
+extras_require	../itchatResource\ItChat\setup.py	/^    extras_require={},$/;"	kind:variable	line:53
+f_url	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    f_url = 'https:\/\/lbs.gtimg.com\/maplbs\/qianxi\/'$/;"	kind:variable	line:13
+fakeChatroom	../itchatResource\ItChat\itchat\storage\templates.py	/^fakeChatroom = Chatroom()$/;"	kind:variable	line:318
+fakeContactList	../itchatResource\ItChat\itchat\storage\templates.py	/^fakeContactList = ContactList()$/;"	kind:variable	line:317
+fakeItchat	../itchatResource\ItChat\itchat\storage\templates.py	/^fakeItchat = UnInitializedItchat()$/;"	kind:variable	line:316
+filterPipeline	../qianXiMap\qianXiMap\pipelines.py	/^class filterPipeline(object):$/;"	kind:class	line:61
+filteredQianximapPipeline	../qianXiMap\qianXiMap\pipelines.py	/^class filteredQianximapPipeline(QianximapPipeline):$/;"	kind:class	line:89
+find_packages	../itchatResource\ItChat\setup.py	/^from setuptools import setup, find_packages$/;"	kind:namespace	line:6
+flush	../ProxyPool\proxypool\db.py	/^    def flush(self):$/;"	kind:member	line:43
+fn	../test\enclosure.py	/^    fn = test()$/;"	kind:variable	line:27
+friendInfoTemplate	../itchatResource\ItChat\itchat\utils.py	/^friendInfoTemplate = {}$/;"	kind:variable	line:24
+from_crawler	../qianXiMap\qianXiMap\middlewares.py	/^    def from_crawler(cls, crawler):$/;"	kind:member	line:17
+from_crawler	../qianXiMap\qianXiMap\pipelines.py	/^    def from_crawler(cls, crawler):$/;"	kind:member	line:30
+from_crawler	../qianXiMap\qianXiMap\pipelines.py	/^    def from_crawler(cls, crawler):$/;"	kind:member	line:68
+from_crawler	../qianXiMap\qianXiMap\pipelines.py	/^    def from_crawler(cls, crawler):$/;"	kind:member	line:91
+from_crawler	../tutorial\tutorial\middlewares.py	/^    def from_crawler(cls, crawler):$/;"	kind:member	line:17
+functools	../test\decoratorClass.py	/^import functools$/;"	kind:namespace	line:7
+functools	../test\decorator_test.py	/^import functools$/;"	kind:namespace	line:1
+g	../ProxyPool\proxypool\api.py	/^from flask import Flask, g$/;"	kind:namespace	line:1
+generator.py	../test\generator.py	1;"	kind:file	line:1
+get	../ProxyPool\proxypool\db.py	/^    def get(self, count=1):$/;"	kind:member	line:13
+get	../itchatResource\ItChat\itchat\storage\templates.py	/^    def get(self, v, d=None):$/;"	kind:member	line:17
+get	../myTool\MsessionReq.py	/^    def get(self, url, **kwargs):$/;"	kind:member	line:189
+getArticleDetail	../test\crawler.py	/^def getArticleDetail(url):$/;"	kind:function	line:26
+getCommentCount	../test\crawler.py	/^def getCommentCount(url, urlO = urlO):$/;"	kind:function	line:16
+get_IID_IG	../bingWallPaper\spider.py	/^def get_IID_IG():$/;"	kind:function	line:29
+get_QR	../itchatResource\ItChat\itchat\__init__.py	/^get_QR                      = originInstance.get_QR$/;"	kind:variable	line:24
+get_QR	../itchatResource\ItChat\itchat\components\login.py	/^def get_QR(self, uuid=None, enableCmdQR=False, picDir=None, qrCallback=None):$/;"	kind:function	line:109
+get_QR	../itchatResource\ItChat\itchat\core.py	/^    def get_QR(self, uuid=None, enableCmdQR=False, picDir=None, qrCallback=None):$/;"	kind:member	line:70
+get_QRuuid	../itchatResource\ItChat\itchat\__init__.py	/^get_QRuuid                  = originInstance.get_QRuuid$/;"	kind:variable	line:23
+get_QRuuid	../itchatResource\ItChat\itchat\components\login.py	/^def get_QRuuid(self):$/;"	kind:function	line:96
+get_QRuuid	../itchatResource\ItChat\itchat\core.py	/^    def get_QRuuid(self):$/;"	kind:member	line:60
+get_chatrooms	../itchatResource\ItChat\itchat\__init__.py	/^get_chatrooms               = originInstance.get_chatrooms$/;"	kind:variable	line:36
+get_chatrooms	../itchatResource\ItChat\itchat\components\contact.py	/^def get_chatrooms(self, update=False, contactOnly=False):$/;"	kind:function	line:309
+get_chatrooms	../itchatResource\ItChat\itchat\core.py	/^    def get_chatrooms(self, update=False, contactOnly=False):$/;"	kind:member	line:189
+get_conn	../ProxyPool\proxypool\api.py	/^def get_conn():$/;"	kind:function	line:10
+get_contact	../itchatResource\ItChat\itchat\__init__.py	/^get_contact                 = originInstance.get_contact$/;"	kind:variable	line:34
+get_contact	../itchatResource\ItChat\itchat\components\contact.py	/^def get_contact(self, update=False):$/;"	kind:function	line:265
+get_contact	../itchatResource\ItChat\itchat\core.py	/^    def get_contact(self, update=False):$/;"	kind:member	line:168
+get_count_proxys	../ProxyPool\examples\example_round_proxy.py	/^def get_count_proxys():$/;"	kind:function	line:12
+get_counts	../ProxyPool\proxypool\api.py	/^def get_counts():$/;"	kind:function	line:35
+get_dates	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    def get_dates(self):$/;"	kind:member	line:26
+get_des	../bingWallPaper\spider.py	/^def get_des(current_date, IID, IG, istoday=True):$/;"	kind:function	line:39
+get_detailed_member_info	../itchatResource\ItChat\itchat\components\contact.py	/^        def get_detailed_member_info(encryChatroomId, memberList):$/;"	kind:function	line:52
+get_download_fn	../itchatResource\ItChat\itchat\components\messages.py	/^def get_download_fn(core, url, msgId):$/;"	kind:function	line:26
+get_friends	../itchatResource\ItChat\itchat\__init__.py	/^get_friends                 = originInstance.get_friends$/;"	kind:variable	line:35
+get_friends	../itchatResource\ItChat\itchat\components\contact.py	/^def get_friends(self, update=False):$/;"	kind:function	line:304
+get_friends	../itchatResource\ItChat\itchat\core.py	/^    def get_friends(self, update=False):$/;"	kind:member	line:180
+get_head_image	../itchatResource\ItChat\itchat\storage\templates.py	/^    def get_head_image(self, imageDir=None):$/;"	kind:member	line:268
+get_head_image	../itchatResource\ItChat\itchat\storage\templates.py	/^    def get_head_image(self, imageDir=None):$/;"	kind:member	line:97
+get_head_img	../itchatResource\ItChat\itchat\__init__.py	/^get_head_img                = originInstance.get_head_img$/;"	kind:variable	line:41
+get_head_img	../itchatResource\ItChat\itchat\components\contact.py	/^def get_head_img(self, userName=None, chatroomUserName=None, picDir=None):$/;"	kind:function	line:381
+get_head_img	../itchatResource\ItChat\itchat\core.py	/^    def get_head_img(self, userName=None, chatroomUserName=None, picDir=None):$/;"	kind:member	line:236
+get_html	../TBmeishi\spederRe.py	/^def get_html(url, query_params):$/;"	kind:function	line:10
+get_html	../bingWallPaper\spider.py	/^def get_html(url, params=None):$/;"	kind:function	line:18
+get_html	../weixinart\test.py	/^def get_html(base_url, proxies, count=1):$/;"	kind:function	line:9
+get_image_postfix	../itchatResource\ItChat\itchat\utils.py	/^def get_image_postfix(data):$/;"	kind:function	line:136
+get_img_info	../bingWallPaper\spider.py	/^def get_img_info(today, lastday):$/;"	kind:function	line:57
+get_link	../weixinart\spiderPro.py	/^def get_link(link_que):$/;"	kind:function	line:177
+get_mps	../itchatResource\ItChat\itchat\__init__.py	/^get_mps                     = originInstance.get_mps$/;"	kind:variable	line:37
+get_mps	../itchatResource\ItChat\itchat\components\contact.py	/^def get_mps(self, update=False):$/;"	kind:function	line:317
+get_mps	../itchatResource\ItChat\itchat\core.py	/^    def get_mps(self, update=False):$/;"	kind:member	line:199
+get_msg	../itchatResource\ItChat\itchat\__init__.py	/^get_msg                     = originInstance.get_msg$/;"	kind:variable	line:29
+get_msg	../itchatResource\ItChat\itchat\components\login.py	/^def get_msg(self):$/;"	kind:function	line:320
+get_msg	../itchatResource\ItChat\itchat\core.py	/^    def get_msg(self):$/;"	kind:member	line:127
+get_nick	../itchat_\wechat.py	/^def get_nick(userName):$/;"	kind:function	line:16
+get_page	../ProxyPool\proxypool\getter.py	/^from .utils import get_page$/;"	kind:namespace	line:1
+get_page	../ProxyPool\proxypool\utils.py	/^def get_page(url, options={}):$/;"	kind:function	line:8
+get_page_contents	../jiepai\spider.py	/^def get_page_contents(url, err, params=''):$/;"	kind:function	line:20
+get_proxies	../weixinart\spider.py	/^def get_proxies():$/;"	kind:function	line:28
+get_proxies	../weixinart\test.py	/^from spider import get_proxies$/;"	kind:namespace	line:4
+get_proxy	../ProxyPool\examples\example.py	/^def get_proxy():$/;"	kind:function	line:10
+get_proxy	../ProxyPool\examples\example_round_proxy.py	/^def get_proxy():$/;"	kind:function	line:7
+get_proxy	../ProxyPool\proxypool\api.py	/^def get_proxy():$/;"	kind:function	line:26
+get_proxy_timeout	../ProxyPool\proxypool\setting.py	/^get_proxy_timeout = 9$/;"	kind:variable	line:10
+get_raw_proxies	../ProxyPool\proxypool\getter.py	/^    def get_raw_proxies(self, callback):$/;"	kind:member	line:24
+get_resp	../weixinart\spider.py	/^        def get_resp(base_url, params=None, data=None, err_count=1, method='get', timeout=12.3):$/;"	kind:function	line:109
+get_resp_wrapper	../myTool\MsessionReq.py	/^        def get_resp_wrapper(self, url, is_login='behind', retry=5, is_sleep=True, validate=None, **kwargs):$/;"	kind:function	line:90
+get_response	../weixinart\spider.py	/^get_response = None$/;"	kind:variable	line:18
+get_userName	../itchat_\wechat.py	/^def get_userName():$/;"	kind:function	line:7
+getflags	../test\reTest.py	/^    def getflags(self):$/;"	kind:member	line:96
+getter.py	../ProxyPool\proxypool\getter.py	1;"	kind:file	line:1
+goto_the_page	../TBmeishi\spider.py	/^def goto_the_page(page_num):$/;"	kind:function	line:48
+groups_	../jiepai\spider.py	/^    groups_ = [x * 20 for x in range(PAGE_START, PAGE_END + 1)]$/;"	kind:variable	line:136
+h	../test\weight.py	/^h = float(input("请输入身高(米):"))$/;"	kind:variable	line:1
+handlerList	../itchatResource\ItChat\itchat\log.py	/^    handlerList = []$/;"	kind:variable	line:4
+has_element	../TBmeishi\spider.py	/^def has_element(element, selector):$/;"	kind:function	line:150
+hashlib	../itchatResource\ItChat\itchat\components\messages.py	/^import mimetypes, hashlib$/;"	kind:namespace	line:3
+hashlib	../qianXiMap\qianXiMap\spiders\qianxi.py	/^import hashlib$/;"	kind:namespace	line:7
+head	../myTool\MsessionReq.py	/^    def head(self, url, **kwargs):$/;"	kind:member	line:197
+headers	../bingWallPaper\spider.py	/^headers = {$/;"	kind:variable	line:14
+headers	../myTool\MsessionReq.py	/^    headers = HEADERS$/;"	kind:variable	line:44
+headers	../weixinart\testBug.py	/^    headers = {$/;"	kind:variable	line:48
+height	../test\property.py	/^    def height(self):$/;"	kind:member	line:13
+height	../test\property.py	/^    def height(self, value):$/;"	kind:member	line:16
+here	../itchatResource\ItChat\setup.py	/^here = path.abspath(path.dirname(__file__))$/;"	kind:variable	line:11
+hex_to_chr	../TBmeishi\spederRe.py	/^def hex_to_chr(string):$/;"	kind:function	line:22
+hotreload.py	../itchatResource\ItChat\itchat\components\hotreload.py	1;"	kind:file	line:1
+htmlParser	../itchatResource\ItChat\itchat\utils.py	/^htmlParser = HTMLParser()$/;"	kind:variable	line:15
+htmls	../ProxyPool\proxypool\utils.py	/^    def htmls(self):$/;"	kind:member	line:47
+id	../qianXiMap\qianXiMap\items.py	/^    id = scrapy.Field()$/;"	kind:variable	line:13
+in_test	../test\decoratorClass.py	/^        def in_test(func):$/;"	kind:function	line:16
+in_test	../test\enclosure.py	/^    def in_test(b):$/;"	kind:function	line:14
+include_package_data	../ProxyPool\setup.py	/^    include_package_data=True,$/;"	kind:variable	line:15
+index	../ProxyPool\proxypool\api.py	/^def index():$/;"	kind:function	line:21
+index	../qianXiMap\qianXiMap\items.py	/^    index = scrapy.Field()$/;"	kind:variable	line:21
+init_fn	../itchatResource\ItChat\itchat\storage\templates.py	/^        def init_fn(parentList, d):$/;"	kind:function	line:182
+install_requires	../ProxyPool\setup.py	/^    install_requires=[$/;"	kind:variable	line:17
+install_requires	../itchatResource\ItChat\setup.py	/^    install_requires=['requests', 'pyqrcode', 'pypng'],$/;"	kind:variable	line:50
+instanceList	../itchatResource\ItChat\itchat\__init__.py	/^instanceList = []$/;"	kind:variable	line:8
+intest	../test\test2.py	/^def intest(que):$/;"	kind:function	line:5
+io	../itchatResource\ItChat\itchat\components\contact.py	/^import os, time, re, io$/;"	kind:namespace	line:1
+io	../itchatResource\ItChat\itchat\components\login.py	/^import os, sys, time, re, io$/;"	kind:namespace	line:1
+io	../itchatResource\ItChat\itchat\components\messages.py	/^import os, time, re, io$/;"	kind:namespace	line:1
+is_firstline	../test\json-lx.py	/^            is_firstline = False$/;"	kind:variable	line:27
+is_firstline	../test\json-lx.py	/^            is_firstline = True$/;"	kind:variable	line:18
+is_firstline	../test\json-lx.py	/^is_firstline = True$/;"	kind:variable	line:10
+is_get_right_page	../myTool\MsessionReq.py	/^    def is_get_right_page(self):$/;"	kind:member	line:163
+is_over_threshold	../ProxyPool\proxypool\schedule.py	/^    def is_over_threshold(self):$/;"	kind:member	line:72
+itchat	../itchatResource\ItChat\setup.py	/^import itchat$/;"	kind:namespace	line:9
+itchat	../itchat_\wechat.py	/^import itchat$/;"	kind:namespace	line:3
+item_nun	../test\crawler.py	/^        item_nun = item_nun + 1$/;"	kind:variable	line:72
+item_nun	../test\crawler.py	/^item_nun = 0$/;"	kind:variable	line:60
+items.py	../qianXiMap\qianXiMap\items.py	1;"	kind:file	line:1
+items.py	../tutorial\tutorial\items.py	1;"	kind:file	line:1
+jd	../test\crawler.py	/^    jd = json.loads(res.text.lstrip('  newsloadercallback(').rstrip(');'))$/;"	kind:variable	line:64
+json	../bingWallPaper\spider.py	/^import json$/;"	kind:namespace	line:3
+json	../itchatResource\ItChat\itchat\components\contact.py	/^import json, copy$/;"	kind:namespace	line:2
+json	../itchatResource\ItChat\itchat\components\login.py	/^import json, xml.dom.minidom$/;"	kind:namespace	line:3
+json	../itchatResource\ItChat\itchat\components\messages.py	/^import json$/;"	kind:namespace	line:2
+json	../jiepai\spider.py	/^import json$/;"	kind:namespace	line:2
+json	../qianXiMap\qianXiMap\spiders\qianxi.py	/^import json$/;"	kind:namespace	line:2
+json	../test\crawler.py	/^import requests, pandas, json$/;"	kind:namespace	line:1
+json	../test\json-lx.py	/^import json$/;"	kind:namespace	line:2
+json	../weixinart\test.py	/^import json$/;"	kind:namespace	line:2
+json-lx.py	../test\json-lx.py	1;"	kind:file	line:1
+keywords	../itchatResource\ItChat\setup.py	/^    keywords='wechat itchat api robot weixin personal extend',$/;"	kind:variable	line:44
+last_msgId	../itchat_\wechat.py	/^last_msgId = False$/;"	kind:variable	line:5
+license	../ProxyPool\setup.py	/^    license='apache 2.0',$/;"	kind:variable	line:27
+license	../itchatResource\ItChat\setup.py	/^    license='MIT',$/;"	kind:variable	line:29
+line	../test\json-lx.py	/^            line = json.loads(f.readline())$/;"	kind:variable	line:14
+load_components	../itchatResource\ItChat\itchat\components\__init__.py	/^def load_components(core):$/;"	kind:function	line:7
+load_components	../itchatResource\ItChat\itchat\core.py	/^from .components import load_components$/;"	kind:namespace	line:6
+load_contact	../itchatResource\ItChat\itchat\components\__init__.py	/^from .contact import load_contact$/;"	kind:namespace	line:1
+load_contact	../itchatResource\ItChat\itchat\components\contact.py	/^def load_contact(core):$/;"	kind:function	line:14
+load_hotreload	../itchatResource\ItChat\itchat\components\__init__.py	/^from .hotreload import load_hotreload$/;"	kind:namespace	line:2
+load_hotreload	../itchatResource\ItChat\itchat\components\hotreload.py	/^def load_hotreload(core):$/;"	kind:function	line:14
+load_last_login_status	../itchatResource\ItChat\itchat\components\hotreload.py	/^def load_last_login_status(session, cookiesDict):$/;"	kind:function	line:87
+load_login	../itchatResource\ItChat\itchat\components\__init__.py	/^from .login import load_login$/;"	kind:namespace	line:3
+load_login	../itchatResource\ItChat\itchat\components\login.py	/^def load_login(core):$/;"	kind:function	line:22
+load_login_status	../itchatResource\ItChat\itchat\__init__.py	/^load_login_status           = originInstance.load_login_status$/;"	kind:variable	line:57
+load_login_status	../itchatResource\ItChat\itchat\components\hotreload.py	/^def load_login_status(self, fileDir,$/;"	kind:function	line:35
+load_login_status	../itchatResource\ItChat\itchat\core.py	/^    def load_login_status(self, fileDir,$/;"	kind:member	line:388
+load_messages	../itchatResource\ItChat\itchat\components\__init__.py	/^from .messages import load_messages$/;"	kind:namespace	line:4
+load_messages	../itchatResource\ItChat\itchat\components\messages.py	/^def load_messages(core):$/;"	kind:function	line:16
+load_register	../itchatResource\ItChat\itchat\components\__init__.py	/^from .register import load_register$/;"	kind:namespace	line:5
+load_register	../itchatResource\ItChat\itchat\components\register.py	/^def load_register(core):$/;"	kind:function	line:13
+loads	../itchatResource\ItChat\itchat\storage\__init__.py	/^    def loads(self, j):$/;"	kind:member	line:39
+log	../itchatResource\ItChat\itchat\core.py	/^from . import config, storage, utils, log$/;"	kind:namespace	line:5
+log	../test\decorator_test.py	/^def log(*arg, **kwargs):$/;"	kind:function	line:3
+log.py	../itchatResource\ItChat\itchat\log.py	1;"	kind:file	line:1
+logger	../itchatResource\ItChat\itchat\components\contact.py	/^logger = logging.getLogger('itchat')$/;"	kind:variable	line:12
+logger	../itchatResource\ItChat\itchat\components\hotreload.py	/^logger = logging.getLogger('itchat')$/;"	kind:variable	line:12
+logger	../itchatResource\ItChat\itchat\components\login.py	/^logger = logging.getLogger('itchat')$/;"	kind:variable	line:20
+logger	../itchatResource\ItChat\itchat\components\messages.py	/^logger = logging.getLogger('itchat')$/;"	kind:variable	line:14
+logger	../itchatResource\ItChat\itchat\components\register.py	/^logger = logging.getLogger('itchat')$/;"	kind:variable	line:11
+logger	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^logger = logging.getLogger('itchat')$/;"	kind:variable	line:9
+logger	../itchatResource\ItChat\itchat\storage\templates.py	/^logger = logging.getLogger('itchat')$/;"	kind:variable	line:7
+logger	../itchatResource\ItChat\itchat\utils.py	/^logger = logging.getLogger('itchat')$/;"	kind:variable	line:12
+logging	../itchatResource\ItChat\itchat\components\contact.py	/^import traceback, logging$/;"	kind:namespace	line:3
+logging	../itchatResource\ItChat\itchat\components\hotreload.py	/^import logging, traceback$/;"	kind:namespace	line:2
+logging	../itchatResource\ItChat\itchat\components\login.py	/^import traceback, logging$/;"	kind:namespace	line:5
+logging	../itchatResource\ItChat\itchat\components\messages.py	/^import traceback, logging$/;"	kind:namespace	line:4
+logging	../itchatResource\ItChat\itchat\components\register.py	/^import logging, traceback, sys, threading$/;"	kind:namespace	line:1
+logging	../itchatResource\ItChat\itchat\core.py	/^import logging$/;"	kind:namespace	line:1
+logging	../itchatResource\ItChat\itchat\log.py	/^import logging$/;"	kind:namespace	line:1
+logging	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^import logging$/;"	kind:namespace	line:1
+logging	../itchatResource\ItChat\itchat\storage\templates.py	/^import logging, copy, pickle$/;"	kind:namespace	line:1
+logging	../itchatResource\ItChat\itchat\utils.py	/^import re, os, sys, subprocess, copy, traceback, logging$/;"	kind:namespace	line:1
+loggingFile	../itchatResource\ItChat\itchat\log.py	/^    loggingFile = None$/;"	kind:variable	line:7
+loggingLevel	../itchatResource\ItChat\itchat\log.py	/^    loggingLevel = logging.INFO$/;"	kind:variable	line:6
+login	../itchatResource\ItChat\itchat\__init__.py	/^login                       = originInstance.login$/;"	kind:variable	line:22
+login	../itchatResource\ItChat\itchat\components\login.py	/^def login(self, enableCmdQR=False, picDir=None, qrCallback=None,$/;"	kind:function	line:33
+login	../itchatResource\ItChat\itchat\core.py	/^    def login(self, enableCmdQR=False, picDir=None, qrCallback=None,$/;"	kind:member	line:32
+login	../myTool\MsessionReq.py	/^    def login(self):$/;"	kind:member	line:177
+login.py	../itchatResource\ItChat\itchat\components\login.py	1;"	kind:file	line:1
+logout	../itchatResource\ItChat\itchat\__init__.py	/^logout                      = originInstance.logout$/;"	kind:variable	line:30
+logout	../itchatResource\ItChat\itchat\components\login.py	/^def logout(self):$/;"	kind:function	line:339
+logout	../itchatResource\ItChat\itchat\core.py	/^    def logout(self):$/;"	kind:member	line:137
+long_description	../ProxyPool\setup.py	/^    long_description='A proxy pool project modified from WiseDoge\/ProxyPool',$/;"	kind:variable	line:7
+long_description	../itchatResource\ItChat\setup.py	/^    long_description = f.read()$/;"	kind:variable	line:14
+long_description	../itchatResource\ItChat\setup.py	/^    long_description=long_description,$/;"	kind:variable	line:22
+ls	../itchatResource\ItChat\itchat\log.py	/^ls = LogSystem()$/;"	kind:variable	line:35
+main	../ProxyPool\examples\example.py	/^def main():$/;"	kind:function	line:22
+main	../ProxyPool\examples\example_round_proxy.py	/^def main():$/;"	kind:function	line:22
+main	../ProxyPool\run.py	/^def main():$/;"	kind:function	line:4
+main	../TBmeishi\spederRe.py	/^def main(offset):$/;"	kind:function	line:73
+main	../TBmeishi\spider.py	/^def main():$/;"	kind:function	line:202
+main	../bingWallPaper\spider.py	/^def main():$/;"	kind:function	line:123
+main	../jiepai\spider.py	/^def main(offset):$/;"	kind:function	line:108
+main	../test\reTest.py	/^def main():$/;"	kind:function	line:166
+main	../weixinart\spider.py	/^def main(page_num):$/;"	kind:function	line:212
+maintain_loop	../itchatResource\ItChat\itchat\components\login.py	/^    def maintain_loop():$/;"	kind:function	line:240
+md5	../jiepai\spider.py	/^from _md5 import md5$/;"	kind:namespace	line:16
+messagequeue.py	../itchatResource\ItChat\itchat\storage\messagequeue.py	1;"	kind:file	line:1
+messages.py	../itchatResource\ItChat\itchat\components\messages.py	1;"	kind:file	line:1
+middlewares.py	../qianXiMap\qianXiMap\middlewares.py	1;"	kind:file	line:1
+middlewares.py	../tutorial\tutorial\middlewares.py	1;"	kind:file	line:1
+mimetypes	../itchatResource\ItChat\itchat\components\messages.py	/^import mimetypes, hashlib$/;"	kind:namespace	line:3
+minidom	../itchatResource\ItChat\itchat\components\login.py	/^import json, xml.dom.minidom$/;"	kind:namespace	line:3
+msg_formatter	../itchatResource\ItChat\itchat\utils.py	/^def msg_formatter(d, k):$/;"	kind:function	line:66
+msg_register	../itchatResource\ItChat\itchat\__init__.py	/^msg_register                = originInstance.msg_register$/;"	kind:variable	line:61
+msg_register	../itchatResource\ItChat\itchat\components\register.py	/^def msg_register(self, msgType, isFriendChat=False, isGroupChat=False, isMpChat=False):$/;"	kind:function	line:66
+msg_register	../itchatResource\ItChat\itchat\core.py	/^    def msg_register(self, msgType,$/;"	kind:member	line:439
+multiprocess.py	../test\concurrent\multiprocess.py	1;"	kind:file	line:1
+myses	../myTool\MsessionReq.py	/^    myses = MsessionReq()$/;"	kind:variable	line:207
+name	../ProxyPool\setup.py	/^    name='proxy-pool',$/;"	kind:variable	line:4
+name	../itchatResource\ItChat\setup.py	/^    name='itchat',$/;"	kind:variable	line:17
+name	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    name = "qianxi"$/;"	kind:variable	line:11
+name	../tutorial\tutorial\spiders\quotes.py	/^    name = "quotes"$/;"	kind:variable	line:6
+new_instance	../itchatResource\ItChat\itchat\__init__.py	/^def new_instance():$/;"	kind:function	line:10
+now	../test\decorator_test.py	/^def now():$/;"	kind:function	line:16
+now2	../test\decorator_test.py	/^def now2():$/;"	kind:function	line:20
+offsets	../TBmeishi\spederRe.py	/^    offsets = [s*44 for s in range(101)]$/;"	kind:variable	line:95
+open	../itchatResource\ItChat\setup.py	/^from codecs import open$/;"	kind:namespace	line:7
+open_spider	../qianXiMap\qianXiMap\pipelines.py	/^    def open_spider(self, spider):$/;"	kind:member	line:47
+open_spider	../qianXiMap\qianXiMap\pipelines.py	/^    def open_spider(self, spider):$/;"	kind:member	line:80
+opendir.py	../test\opendir.py	1;"	kind:file	line:1
+openpyxl	../qianXiMap\qianXiMap\pipelines.py	/^import openpyxl$/;"	kind:namespace	line:8
+openpyxl	../test\json-lx.py	/^import openpyxl$/;"	kind:namespace	line:3
+originInstance	../itchatResource\ItChat\itchat\__init__.py	/^originInstance = new_instance()$/;"	kind:variable	line:15
+os	../ProxyPool\examples\example.py	/^import os$/;"	kind:namespace	line:1
+os	../itchatResource\ItChat\itchat\components\contact.py	/^import os, time, re, io$/;"	kind:namespace	line:1
+os	../itchatResource\ItChat\itchat\components\hotreload.py	/^import pickle, os$/;"	kind:namespace	line:1
+os	../itchatResource\ItChat\itchat\components\login.py	/^import os, sys, time, re, io$/;"	kind:namespace	line:1
+os	../itchatResource\ItChat\itchat\components\messages.py	/^import os, time, re, io$/;"	kind:namespace	line:1
+os	../itchatResource\ItChat\itchat\config.py	/^import os, platform$/;"	kind:namespace	line:1
+os	../itchatResource\ItChat\itchat\storage\__init__.py	/^import os, time, copy$/;"	kind:namespace	line:1
+os	../itchatResource\ItChat\itchat\utils.py	/^import re, os, sys, subprocess, copy, traceback, logging$/;"	kind:namespace	line:1
+os	../itchat_\wechat.py	/^import os$/;"	kind:namespace	line:2
+os	../jiepai\spider.py	/^import os$/;"	kind:namespace	line:3
+os	../test\concurrent\multiprocess.py	/^import os$/;"	kind:namespace	line:2
+os	../test\concurrent\processQueue.py	/^import os, time, random$/;"	kind:namespace	line:2
+os	../weixinart\spider.py	/^import os$/;"	kind:namespace	line:6
+os	../weixinart\spiderPro.py	/^import os$/;"	kind:namespace	line:5
+os	../weixinart\testBug.py	/^import os$/;"	kind:namespace	line:3
+outtest	../test\test2.py	/^def outtest(que):$/;"	kind:function	line:18
+packages	../ProxyPool\setup.py	/^    packages=[$/;"	kind:variable	line:11
+packages	../itchatResource\ItChat\setup.py	/^    packages=find_packages(),$/;"	kind:variable	line:48
+pandas	../jiepai\spider.py	/^import pandas$/;"	kind:namespace	line:11
+pandas	../test\crawler.py	/^import requests, pandas, json$/;"	kind:namespace	line:1
+parse	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    def parse(self, response):$/;"	kind:member	line:34
+parse	../tutorial\tutorial\spiders\quotes.py	/^    def parse(self, response):$/;"	kind:member	line:17
+parse_detail	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    def parse_detail(self, response):$/;"	kind:member	line:56
+parse_detail_page	../weixinart\spider.py	/^def parse_detail_page(html):$/;"	kind:function	line:177
+parse_detail_page	../weixinart\spiderPro.py	/^def parse_detail_page(html):$/;"	kind:function	line:99
+parse_details_html_by_bs4	../TBmeishi\spider.py	/^                        'parse_details_html_by_bs4()', setup='from __main__ import parse_details_html_by_bs4', number=1)$/;"	kind:namespace	line:225
+parse_details_html_by_bs4	../TBmeishi\spider.py	/^def parse_details_html_by_bs4():$/;"	kind:function	line:85
+parse_details_html_by_pq	../TBmeishi\spider.py	/^                        'parse_details_html_by_pq()', setup='from __main__ import parse_details_html_by_pq', number=1)$/;"	kind:namespace	line:221
+parse_details_html_by_pq	../TBmeishi\spider.py	/^def parse_details_html_by_pq():$/;"	kind:function	line:117
+parse_details_html_by_selenium	../TBmeishi\spider.py	/^                                      setup='from __main__ import parse_details_html_by_selenium', number=1)$/;"	kind:namespace	line:217
+parse_details_html_by_selenium	../TBmeishi\spider.py	/^def parse_details_html_by_selenium():$/;"	kind:function	line:159
+parse_html_detail	../jiepai\spider.py	/^def parse_html_detail(html, url):$/;"	kind:function	line:65
+parse_html_index	../jiepai\spider.py	/^def parse_html_index(html):$/;"	kind:function	line:34
+parse_index_page	../weixinart\spider.py	/^def parse_index_page(html):$/;"	kind:function	line:167
+parse_index_page	../weixinart\spiderPro.py	/^def parse_index_page(html, page_num):$/;"	kind:function	line:86
+parser_page	../TBmeishi\spederRe.py	/^def parser_page(html):$/;"	kind:function	line:30
+path	../itchatResource\ItChat\setup.py	/^from os import path$/;"	kind:namespace	line:8
+path	../test\opendir.py	/^path = 'C:\\\\Users\\\\hetao\\\\Desktop\\\\' + random.random() + '.txt'$/;"	kind:variable	line:4
+pi	../test\test2.py	/^    pi = threading.Thread(target=outtest, args=(que,), name='outtest')$/;"	kind:variable	line:31
+pickle	../itchatResource\ItChat\itchat\components\hotreload.py	/^import pickle, os$/;"	kind:namespace	line:1
+pickle	../itchatResource\ItChat\itchat\components\login.py	/^import copy, pickle, random$/;"	kind:namespace	line:4
+pickle	../itchatResource\ItChat\itchat\storage\templates.py	/^import logging, copy, pickle$/;"	kind:namespace	line:1
+pipelines.py	../qianXiMap\qianXiMap\pipelines.py	1;"	kind:file	line:1
+pipelines.py	../tutorial\tutorial\pipelines.py	1;"	kind:file	line:1
+platform	../itchatResource\ItChat\itchat\config.py	/^import os, platform$/;"	kind:namespace	line:1
+platforms	../ProxyPool\setup.py	/^    platforms='any',$/;"	kind:variable	line:16
+pool	../TBmeishi\spederRe.py	/^    from multiprocessing import pool$/;"	kind:namespace	line:94
+pool	../jiepai\spider.py	/^from multiprocessing import pool$/;"	kind:namespace	line:8
+pool_	../jiepai\spider.py	/^    pool_ = pool.Pool()$/;"	kind:variable	line:137
+pop	../ProxyPool\proxypool\db.py	/^    def pop(self):$/;"	kind:member	line:27
+post	../myTool\MsessionReq.py	/^    def post(self, url, **kwargs):$/;"	kind:member	line:193
+pq	../ProxyPool\proxypool\getter.py	/^from pyquery import PyQuery as pq$/;"	kind:namespace	line:2
+pq	../TBmeishi\spider.py	/^from pyquery import PyQuery as pq$/;"	kind:namespace	line:7
+pq	../weixinart\spider.py	/^from pyquery import PyQuery as pq$/;"	kind:namespace	line:11
+pq	../weixinart\spiderPro.py	/^from pyquery import PyQuery as pq$/;"	kind:namespace	line:13
+pr	../test\concurrent\multiprocess.py	/^    pr = Process(target=read, args=(q,))$/;"	kind:variable	line:30
+pr	../test\concurrent\processQueue.py	/^    pr = Process(target=read, args=(q,))$/;"	kind:variable	line:27
+preprocessor	../myTool\MsessionReq.py	/^    def preprocessor(func):$/;"	kind:member	line:88
+printR	../test\crawler.py	/^def printR(con):$/;"	kind:function	line:8
+print_blue	../TBmeishi\spider.py	/^from myTool.Pcolor import print_blue, print_green, print_rd, print_red$/;"	kind:namespace	line:9
+print_blue	../myTool\Pcolor.py	/^def print_blue(*print_text):$/;"	kind:function	line:46
+print_blue	../test\tool\Pcolor.py	/^def print_blue(*print_text):$/;"	kind:function	line:36
+print_blue_text	../test\tool\Pcolor_class.py	/^    def print_blue_text(self, print_text):$/;"	kind:member	line:36
+print_cmd_qr	../itchatResource\ItChat\itchat\utils.py	/^def print_cmd_qr(qrText, white=BLOCK, black='  ', enableCmdQR=True):$/;"	kind:function	line:87
+print_green	../TBmeishi\spider.py	/^from myTool.Pcolor import print_blue, print_green, print_rd, print_red$/;"	kind:namespace	line:9
+print_green	../myTool\Mproxy.py	/^from myTool.Pcolor import print_green$/;"	kind:namespace	line:6
+print_green	../myTool\MsessionReq.py	/^from myTool.Pcolor import print_green$/;"	kind:namespace	line:11
+print_green	../myTool\Pcolor.py	/^def print_green(*print_text):$/;"	kind:function	line:39
+print_green	../test\tool\Pcolor.py	/^def print_green(*print_text):$/;"	kind:function	line:31
+print_green_text	../test\tool\Pcolor_class.py	/^    def print_green_text(self, print_text):$/;"	kind:member	line:32
+print_line	../itchatResource\ItChat\itchat\utils.py	/^def print_line(msg, oneLine = False):$/;"	kind:function	line:112
+print_qr	../itchatResource\ItChat\itchat\utils.py	/^def print_qr(fileDir):$/;"	kind:function	line:79
+print_rd	../TBmeishi\spider.py	/^from myTool.Pcolor import print_blue, print_green, print_rd, print_red$/;"	kind:namespace	line:9
+print_rd	../myTool\Pcolor.py	/^def print_rd(*print_text):$/;"	kind:function	line:53
+print_rd	../test\tool\Pcolor.py	/^def print_rd(*print_text):$/;"	kind:function	line:41
+print_red	../TBmeishi\spider.py	/^from myTool.Pcolor import print_blue, print_green, print_rd, print_red$/;"	kind:namespace	line:9
+print_red	../myTool\Pcolor.py	/^def print_red(*print_text):$/;"	kind:function	line:32
+print_red	../test\tool\Pcolor.py	/^def print_red(*print_text):$/;"	kind:function	line:26
+print_red	../weixinart\spider.py	/^from myTool.Pcolor import print_red$/;"	kind:namespace	line:15
+print_red	../weixinart\spiderPro.py	/^from myTool.Pcolor import print_red$/;"	kind:namespace	line:18
+print_red	../weixinart\test.py	/^from Pcolor import print_red$/;"	kind:namespace	line:5
+print_red_text	../test\tool\Pcolor_class.py	/^    def print_red_text(self, print_text):$/;"	kind:member	line:28
+print_red_text_with_blue_bg	../test\tool\Pcolor_class.py	/^    def print_red_text_with_blue_bg(self, print_text):$/;"	kind:member	line:40
+pro	../myTool\Mproxy.py	/^    pro = Mproxy('weixinart')$/;"	kind:variable	line:69
+processQueue.py	../test\concurrent\processQueue.py	1;"	kind:file	line:1
+process_item	../qianXiMap\qianXiMap\pipelines.py	/^    def process_item(self, item, spider):$/;"	kind:member	line:16
+process_item	../qianXiMap\qianXiMap\pipelines.py	/^    def process_item(self, item, spider):$/;"	kind:member	line:35
+process_item	../qianXiMap\qianXiMap\pipelines.py	/^    def process_item(self, item, spider):$/;"	kind:member	line:73
+process_item	../tutorial\tutorial\pipelines.py	/^    def process_item(self, item, spider):$/;"	kind:member	line:10
+process_login_info	../itchatResource\ItChat\itchat\components\login.py	/^def process_login_info(core, loginContent):$/;"	kind:function	line:146
+process_spider_exception	../qianXiMap\qianXiMap\middlewares.py	/^    def process_spider_exception(response, exception, spider):$/;"	kind:member	line:38
+process_spider_exception	../tutorial\tutorial\middlewares.py	/^    def process_spider_exception(response, exception, spider):$/;"	kind:member	line:38
+process_spider_input	../qianXiMap\qianXiMap\middlewares.py	/^    def process_spider_input(response, spider):$/;"	kind:member	line:23
+process_spider_input	../tutorial\tutorial\middlewares.py	/^    def process_spider_input(response, spider):$/;"	kind:member	line:23
+process_spider_output	../qianXiMap\qianXiMap\middlewares.py	/^    def process_spider_output(response, result, spider):$/;"	kind:member	line:30
+process_spider_output	../tutorial\tutorial\middlewares.py	/^    def process_spider_output(response, result, spider):$/;"	kind:member	line:30
+process_start_requests	../qianXiMap\qianXiMap\middlewares.py	/^    def process_start_requests(start_requests, spider):$/;"	kind:member	line:46
+process_start_requests	../tutorial\tutorial\middlewares.py	/^    def process_start_requests(start_requests, spider):$/;"	kind:member	line:46
+produce_group_chat	../itchatResource\ItChat\itchat\components\messages.py	/^def produce_group_chat(core, msg):$/;"	kind:function	line:223
+produce_msg	../itchatResource\ItChat\itchat\components\hotreload.py	/^from .messages import produce_msg$/;"	kind:namespace	line:10
+produce_msg	../itchatResource\ItChat\itchat\components\login.py	/^from .messages import produce_msg$/;"	kind:namespace	line:18
+produce_msg	../itchatResource\ItChat\itchat\components\messages.py	/^def produce_msg(core, msgList):$/;"	kind:function	line:47
+producer	../test\concurrent\test2.py	/^def producer(que):$/;"	kind:function	line:16
+property.py	../test\property.py	1;"	kind:file	line:1
+proxies	../weixinart\test.py	/^        proxies = get_proxies()$/;"	kind:variable	line:37
+proxies_test	../weixinart\config.py	/^proxies_test = {'http': 'http:\/\/111.13.109.27:80', 'https': 'http:\/\/111.13.109.27:80'}$/;"	kind:variable	line:38
+proxies_test	../weixinart\testBug.py	/^    proxies_test = {'http': 'http:\/\/111.13.109.27:80', 'https': 'http:\/\/111.13.109.27:80'}$/;"	kind:variable	line:47
+proxy	../ProxyPool\examples\example_round_proxy.py	/^proxy = get_proxy()$/;"	kind:variable	line:52
+proxy	../myTool\Mproxy.py	/^    def proxy(self):$/;"	kind:member	line:37
+proxy_col_name	../myTool\MsessionReq.py	/^    proxy_col_name = PROXY_COL_NAME$/;"	kind:variable	line:46
+push_login	../itchatResource\ItChat\itchat\components\login.py	/^def push_login(core):$/;"	kind:function	line:84
+put	../ProxyPool\proxypool\db.py	/^    def put(self, proxy):$/;"	kind:member	line:21
+put	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^    def put(self, message):$/;"	kind:member	line:12
+put_link	../weixinart\spiderPro.py	/^def put_link(link_que, page_range):$/;"	kind:function	line:139
+pw	../test\concurrent\multiprocess.py	/^    pw = Process(target=write, args=(q,))$/;"	kind:variable	line:29
+pw	../test\concurrent\processQueue.py	/^    pw = Process(target=write, args=(q,))$/;"	kind:variable	line:26
+py_modules	../ProxyPool\setup.py	/^    py_modules=['run'],$/;"	kind:variable	line:14
+pymongo	../myTool\Mproxy.py	/^import pymongo$/;"	kind:namespace	line:2
+pymongo	../weixinart\spider.py	/^import pymongo$/;"	kind:namespace	line:8
+pymongo	../weixinart\spiderPro.py	/^import pymongo$/;"	kind:namespace	line:11
+q	../test\concurrent\multiprocess.py	/^    q = Queue()$/;"	kind:variable	line:28
+q	../test\concurrent\processQueue.py	/^    q = Queue()$/;"	kind:variable	line:25
+qianxi.py	../qianXiMap\qianXiMap\spiders\qianxi.py	1;"	kind:file	line:1
+qsort	../test.py	/^def qsort(seq):$/;"	kind:function	line:1
+que	../test\test2.py	/^    que = Queue(5)$/;"	kind:variable	line:30
+queue	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^    import Queue as queue$/;"	kind:namespace	line:3
+queue	../itchatResource\ItChat\itchat\storage\messagequeue.py	/^    import queue$/;"	kind:namespace	line:5
+queue	../weixinart\spiderPro.py	/^import queue$/;"	kind:namespace	line:6
+queue_len	../ProxyPool\proxypool\db.py	/^    def queue_len(self):$/;"	kind:member	line:37
+quotes.py	../tutorial\tutorial\spiders\quotes.py	1;"	kind:file	line:1
+r	../test\weight.py	/^r = w\/(h**2)$/;"	kind:variable	line:3
+random	../ProxyPool\proxypool\utils.py	/^import random$/;"	kind:namespace	line:6
+random	../itchatResource\ItChat\itchat\components\login.py	/^import copy, pickle, random$/;"	kind:namespace	line:4
+random	../test\concurrent\multiprocess.py	/^import random$/;"	kind:namespace	line:4
+random	../test\concurrent\processQueue.py	/^import os, time, random$/;"	kind:namespace	line:2
+random	../test\opendir.py	/^import random$/;"	kind:namespace	line:2
+re	../ProxyPool\proxypool\getter.py	/^import re$/;"	kind:namespace	line:3
+re	../TBmeishi\spederRe.py	/^import re$/;"	kind:namespace	line:3
+re	../bingWallPaper\spider.py	/^import re$/;"	kind:namespace	line:4
+re	../itchatResource\ItChat\itchat\components\contact.py	/^import os, time, re, io$/;"	kind:namespace	line:1
+re	../itchatResource\ItChat\itchat\components\login.py	/^import os, sys, time, re, io$/;"	kind:namespace	line:1
+re	../itchatResource\ItChat\itchat\components\messages.py	/^import os, time, re, io$/;"	kind:namespace	line:1
+re	../itchatResource\ItChat\itchat\utils.py	/^import re, os, sys, subprocess, copy, traceback, logging$/;"	kind:namespace	line:1
+re	../jiepai\spider.py	/^import re$/;"	kind:namespace	line:4
+re	../test\reTest.py	/^import re$/;"	kind:namespace	line:6
+reTest.py	../test\reTest.py	1;"	kind:file	line:1
+re_from_ice	../itchat_\wechat.py	/^            def re_from_ice(message):$/;"	kind:function	line:49
+read	../test\concurrent\multiprocess.py	/^def read(q):$/;"	kind:function	line:19
+read	../test\concurrent\processQueue.py	/^def read(q):$/;"	kind:function	line:17
+recompile	../test\reTest.py	/^    def recompile(self, event=None):$/;"	kind:member	line:103
+redis	../ProxyPool\proxypool\db.py	/^import redis$/;"	kind:namespace	line:1
+reevaluate	../test\reTest.py	/^    def reevaluate(self, event=None):$/;"	kind:member	line:116
+ref	../itchatResource\ItChat\itchat\storage\templates.py	/^from weakref import ref$/;"	kind:namespace	line:2
+register.py	../itchatResource\ItChat\itchat\components\register.py	1;"	kind:file	line:1
+reply	../itchat_\wechat.py	/^def reply(msg):$/;"	kind:function	line:32
+reply_fn	../itchatResource\ItChat\itchat\components\register.py	/^    def reply_fn():$/;"	kind:function	line:88
+requests	../ProxyPool\examples\example.py	/^import requests$/;"	kind:namespace	line:3
+requests	../ProxyPool\examples\example_round_proxy.py	/^import requests$/;"	kind:namespace	line:1
+requests	../ProxyPool\proxypool\utils.py	/^import requests$/;"	kind:namespace	line:1
+requests	../TBmeishi\spederRe.py	/^import requests$/;"	kind:namespace	line:6
+requests	../bingWallPaper\spider.py	/^import requests$/;"	kind:namespace	line:8
+requests	../itchatResource\ItChat\itchat\components\contact.py	/^import requests$/;"	kind:namespace	line:5
+requests	../itchatResource\ItChat\itchat\components\hotreload.py	/^import requests$/;"	kind:namespace	line:4
+requests	../itchatResource\ItChat\itchat\components\login.py	/^import requests$/;"	kind:namespace	line:11
+requests	../itchatResource\ItChat\itchat\components\messages.py	/^import requests$/;"	kind:namespace	line:7
+requests	../itchatResource\ItChat\itchat\core.py	/^import requests$/;"	kind:namespace	line:3
+requests	../itchatResource\ItChat\itchat\utils.py	/^import requests$/;"	kind:namespace	line:8
+requests	../jiepai\spider.py	/^import requests$/;"	kind:namespace	line:12
+requests	../myTool\Mproxy.py	/^import requests$/;"	kind:namespace	line:3
+requests	../myTool\MsessionReq.py	/^import requests$/;"	kind:namespace	line:7
+requests	../test\crawler.py	/^import requests, pandas, json$/;"	kind:namespace	line:1
+requests	../weixinart\spider.py	/^import requests$/;"	kind:namespace	line:10
+requests	../weixinart\spiderPro.py	/^import requests$/;"	kind:namespace	line:12
+requests	../weixinart\test.py	/^import requests$/;"	kind:namespace	line:1
+requests	../weixinart\test2.py	/^import requests$/;"	kind:namespace	line:2
+requests	../weixinart\testBug.py	/^import requests$/;"	kind:namespace	line:2
+res	../jiepai\test.py	/^res = cursor.fetchone()$/;"	kind:variable	line:15
+res	../myTool\MsessionReq.py	/^    res = myses.get('http:\/\/ip.cn')$/;"	kind:variable	line:209
+res	../test\crawler.py	/^    res = requests.get(urlOri.format(i))$/;"	kind:variable	line:63
+res	../test\decoratorClass.py	/^    res = testClass(5)$/;"	kind:variable	line:37
+res	../weixinart\test2.py	/^res = requests.get('http:\/\/pb.sogou.com\/pv.gif', suv_params)$/;"	kind:variable	line:16
+res	../weixinart\testBug.py	/^    res = session.get(url_test)$/;"	kind:variable	line:60
+reset_color	../myTool\Pcolor.py	/^def reset_color():$/;"	kind:function	line:27
+reset_color	../test\tool\Pcolor.py	/^def reset_color():$/;"	kind:function	line:23
+reset_color	../test\tool\Pcolor_class.py	/^    def reset_color(self):$/;"	kind:member	line:26
+resolution	../test\property.py	/^    def resolution(self):$/;"	kind:member	line:23
+ress	../test\decoratorClass.py	/^    ress = res.exe('exepar')$/;"	kind:variable	line:38
+returnvalues.py	../itchatResource\ItChat\itchat\returnvalues.py	1;"	kind:file	line:1
+revoke	../itchatResource\ItChat\itchat\__init__.py	/^revoke                      = originInstance.revoke$/;"	kind:variable	line:54
+revoke	../itchatResource\ItChat\itchat\components\messages.py	/^def revoke(self, msgId, toUserName, localId=None):$/;"	kind:function	line:511
+revoke	../itchatResource\ItChat\itchat\core.py	/^    def revoke(self, msgId, toUserName, localId=None):$/;"	kind:member	line:372
+run	../ProxyPool\proxypool\schedule.py	/^    def run(self):$/;"	kind:member	line:133
+run	../itchatResource\ItChat\itchat\__init__.py	/^run                         = originInstance.run$/;"	kind:variable	line:62
+run	../itchatResource\ItChat\itchat\components\register.py	/^def run(self, debug=False, blockThread=True):$/;"	kind:function	line:84
+run	../itchatResource\ItChat\itchat\core.py	/^    def run(self, debug=True, blockThread=True):$/;"	kind:member	line:445
+run	../test\concurrent\test2.py	/^def run():$/;"	kind:function	line:23
+run	../weixinart\spiderPro.py	/^def run(customer_num, page_range=(1, 101)):$/;"	kind:function	line:206
+run.py	../ProxyPool\run.py	1;"	kind:file	line:1
+save2mongo	../weixinart\spider.py	/^def save2mongo(data):$/;"	kind:function	line:204
+save_art2mongo	../weixinart\spiderPro.py	/^def save_art2mongo(article_col, data):$/;"	kind:function	line:130
+save_proxy2mongo	../myTool\Mproxy.py	/^    def save_proxy2mongo(self, data):$/;"	kind:member	line:18
+save_to_db	../TBmeishi\spederRe.py	/^def save_to_db(product):$/;"	kind:function	line:54
+save_to_db	../TBmeishi\spider.py	/^def save_to_db(product):$/;"	kind:function	line:67
+save_to_db	../jiepai\spider.py	/^def save_to_db(info):$/;"	kind:function	line:85
+schedule.py	../ProxyPool\proxypool\schedule.py	1;"	kind:file	line:1
+scrapy	../qianXiMap\qianXiMap\items.py	/^import scrapy$/;"	kind:namespace	line:8
+scrapy	../qianXiMap\qianXiMap\spiders\qianxi.py	/^import scrapy$/;"	kind:namespace	line:6
+scrapy	../tutorial\tutorial\items.py	/^import scrapy$/;"	kind:namespace	line:8
+scrapy	../tutorial\tutorial\spiders\quotes.py	/^import scrapy$/;"	kind:namespace	line:2
+search	../TBmeishi\spider.py	/^def search(url, keyword):$/;"	kind:function	line:32
+search_chatrooms	../itchatResource\ItChat\itchat\__init__.py	/^search_chatrooms            = originInstance.search_chatrooms$/;"	kind:variable	line:65
+search_chatrooms	../itchatResource\ItChat\itchat\core.py	/^    def search_chatrooms(self, name=None, userName=None):$/;"	kind:member	line:456
+search_chatrooms	../itchatResource\ItChat\itchat\storage\__init__.py	/^    def search_chatrooms(self, name=None, userName=None):$/;"	kind:member	line:94
+search_dict_list	../itchatResource\ItChat\itchat\utils.py	/^def search_dict_list(l, key, value):$/;"	kind:function	line:105
+search_friends	../itchatResource\ItChat\itchat\__init__.py	/^search_friends              = originInstance.search_friends$/;"	kind:variable	line:64
+search_friends	../itchatResource\ItChat\itchat\core.py	/^    def search_friends(self, name=None, userName=None, remarkName=None, nickName=None,$/;"	kind:member	line:452
+search_friends	../itchatResource\ItChat\itchat\storage\__init__.py	/^    def search_friends(self, name=None, userName=None, remarkName=None, nickName=None,$/;"	kind:member	line:62
+search_member	../itchatResource\ItChat\itchat\storage\templates.py	/^    def search_member(self, name=None, userName=None, remarkName=None, nickName=None,$/;"	kind:member	line:121
+search_member	../itchatResource\ItChat\itchat\storage\templates.py	/^    def search_member(self, name=None, userName=None, remarkName=None, nickName=None,$/;"	kind:member	line:213
+search_mps	../itchatResource\ItChat\itchat\__init__.py	/^search_mps                  = originInstance.search_mps$/;"	kind:variable	line:66
+search_mps	../itchatResource\ItChat\itchat\core.py	/^    def search_mps(self, name=None, userName=None):$/;"	kind:member	line:458
+search_mps	../itchatResource\ItChat\itchat\storage\__init__.py	/^    def search_mps(self, name=None, userName=None):$/;"	kind:member	line:106
+send	../itchatResource\ItChat\itchat\__init__.py	/^send                        = originInstance.send$/;"	kind:variable	line:53
+send	../itchatResource\ItChat\itchat\components\messages.py	/^def send(self, msg, toUserName=None, mediaId=None):$/;"	kind:function	line:485
+send	../itchatResource\ItChat\itchat\core.py	/^    def send(self, msg, toUserName=None, mediaId=None):$/;"	kind:member	line:360
+send	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send(self, msg, mediaId=None):$/;"	kind:member	line:119
+send	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send(self, msg, mediaId=None):$/;"	kind:member	line:297
+send_file	../itchatResource\ItChat\itchat\__init__.py	/^send_file                   = originInstance.send_file$/;"	kind:variable	line:50
+send_file	../itchatResource\ItChat\itchat\components\messages.py	/^def send_file(self, fileDir, toUserName=None, mediaId=None, file_=None):$/;"	kind:function	line:364
+send_file	../itchatResource\ItChat\itchat\core.py	/^    def send_file(self, fileDir, toUserName=None, mediaId=None, file_=None):$/;"	kind:member	line:328
+send_file	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_file(self, fileDir, mediaId=None):$/;"	kind:member	line:113
+send_file	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_file(self, fileDir, mediaId=None):$/;"	kind:member	line:282
+send_image	../itchatResource\ItChat\itchat\__init__.py	/^send_image                  = originInstance.send_image$/;"	kind:variable	line:51
+send_image	../itchatResource\ItChat\itchat\components\messages.py	/^def send_image(self, fileDir=None, toUserName=None, mediaId=None, file_=None):$/;"	kind:function	line:404
+send_image	../itchatResource\ItChat\itchat\core.py	/^    def send_image(self, fileDir=None, toUserName=None, mediaId=None, file_=None):$/;"	kind:member	line:338
+send_image	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_image(self, fileDir, mediaId=None):$/;"	kind:member	line:115
+send_image	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_image(self, fileDir, mediaId=None):$/;"	kind:member	line:287
+send_msg	../itchatResource\ItChat\itchat\__init__.py	/^send_msg                    = originInstance.send_msg$/;"	kind:variable	line:48
+send_msg	../itchatResource\ItChat\itchat\components\messages.py	/^def send_msg(self, msg='Test Message', toUserName=None):$/;"	kind:function	line:277
+send_msg	../itchatResource\ItChat\itchat\core.py	/^    def send_msg(self, msg='Test Message', toUserName=None):$/;"	kind:member	line:307
+send_msg	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_msg(self, msg='Test Message'):$/;"	kind:member	line:111
+send_msg	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_msg(self, msg='Test Message'):$/;"	kind:member	line:277
+send_raw_msg	../itchatResource\ItChat\itchat\__init__.py	/^send_raw_msg                = originInstance.send_raw_msg$/;"	kind:variable	line:47
+send_raw_msg	../itchatResource\ItChat\itchat\components\messages.py	/^def send_raw_msg(self, msgType, content, toUserName):$/;"	kind:function	line:259
+send_raw_msg	../itchatResource\ItChat\itchat\core.py	/^    def send_raw_msg(self, msgType, content, toUserName):$/;"	kind:member	line:293
+send_raw_msg	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_raw_msg(self, msgType, content):$/;"	kind:member	line:109
+send_raw_msg	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_raw_msg(self, msgType, content):$/;"	kind:member	line:272
+send_video	../itchatResource\ItChat\itchat\__init__.py	/^send_video                  = originInstance.send_video$/;"	kind:variable	line:52
+send_video	../itchatResource\ItChat\itchat\components\messages.py	/^def send_video(self, fileDir=None, toUserName=None, mediaId=None, file_=None):$/;"	kind:function	line:446
+send_video	../itchatResource\ItChat\itchat\core.py	/^    def send_video(self, fileDir=None, toUserName=None, mediaId=None, file_=None):$/;"	kind:member	line:349
+send_video	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_video(self, fileDir=None, mediaId=None):$/;"	kind:member	line:117
+send_video	../itchatResource\ItChat\itchat\storage\templates.py	/^    def send_video(self, fileDir=None, mediaId=None):$/;"	kind:member	line:292
+seq	../test.py	/^    seq = [5, 3, 6, -2, 4]$/;"	kind:variable	line:15
+session	../weixinart\testBug.py	/^    session = requests.Session()$/;"	kind:variable	line:57
+set_alias	../itchatResource\ItChat\itchat\__init__.py	/^set_alias                   = originInstance.set_alias$/;"	kind:variable	line:38
+set_alias	../itchatResource\ItChat\itchat\components\contact.py	/^def set_alias(self, userName, alias):$/;"	kind:function	line:321
+set_alias	../itchatResource\ItChat\itchat\core.py	/^    def set_alias(self, userName, alias):$/;"	kind:member	line:208
+set_alias	../itchatResource\ItChat\itchat\storage\templates.py	/^    def set_alias(self, alias):$/;"	kind:member	line:153
+set_alias	../itchatResource\ItChat\itchat\storage\templates.py	/^    def set_alias(self, alias):$/;"	kind:member	line:205
+set_alias	../itchatResource\ItChat\itchat\storage\templates.py	/^    def set_alias(self, alias):$/;"	kind:member	line:82
+set_chatroom_name	../itchatResource\ItChat\itchat\__init__.py	/^set_chatroom_name           = originInstance.set_chatroom_name$/;"	kind:variable	line:43
+set_chatroom_name	../itchatResource\ItChat\itchat\components\contact.py	/^def set_chatroom_name(self, chatroomUserName, name):$/;"	kind:function	line:440
+set_chatroom_name	../itchatResource\ItChat\itchat\core.py	/^    def set_chatroom_name(self, chatroomUserName, name):$/;"	kind:member	line:255
+set_cmd_color	../myTool\Pcolor.py	/^def set_cmd_color(color, handle=std_out_handle):$/;"	kind:function	line:19
+set_cmd_color	../test\tool\Pcolor.py	/^def set_cmd_color(color, handle=std_out_handle):$/;"	kind:function	line:17
+set_cmd_color	../test\tool\Pcolor_class.py	/^    def set_cmd_color(self, color, handle=std_out_handle):$/;"	kind:member	line:20
+set_default_value	../itchatResource\ItChat\itchat\storage\templates.py	/^    def set_default_value(self, initFunction=None, contactClass=None):$/;"	kind:member	line:40
+set_logging	../itchatResource\ItChat\itchat\__init__.py	/^from .log import set_logging$/;"	kind:namespace	line:4
+set_logging	../itchatResource\ItChat\itchat\__init__.py	/^set_logging                 = set_logging$/;"	kind:variable	line:67
+set_logging	../itchatResource\ItChat\itchat\components\register.py	/^from ..log import set_logging$/;"	kind:namespace	line:7
+set_logging	../itchatResource\ItChat\itchat\log.py	/^    def set_logging(self, showOnCmd=True, loggingFile=None,$/;"	kind:member	line:15
+set_logging	../itchatResource\ItChat\itchat\log.py	/^set_logging = ls.set_logging$/;"	kind:variable	line:36
+set_pinned	../itchatResource\ItChat\itchat\__init__.py	/^set_pinned                  = originInstance.set_pinned$/;"	kind:variable	line:39
+set_pinned	../itchatResource\ItChat\itchat\components\contact.py	/^def set_pinned(self, userName, isPinned=True):$/;"	kind:function	line:342
+set_pinned	../itchatResource\ItChat\itchat\core.py	/^    def set_pinned(self, userName, isPinned=True):$/;"	kind:member	line:216
+set_pinned	../itchatResource\ItChat\itchat\storage\templates.py	/^    def set_pinned(self, isPinned=True):$/;"	kind:member	line:155
+set_pinned	../itchatResource\ItChat\itchat\storage\templates.py	/^    def set_pinned(self, isPinned=True):$/;"	kind:member	line:207
+set_pinned	../itchatResource\ItChat\itchat\storage\templates.py	/^    def set_pinned(self, isPinned=True):$/;"	kind:member	line:87
+set_raw_proxies	../ProxyPool\proxypool\schedule.py	/^    def set_raw_proxies(self, proxies):$/;"	kind:member	line:23
+set_response	../weixinart\spider.py	/^def set_response():$/;"	kind:function	line:157
+set_session	../weixinart\spider.py	/^def set_session():$/;"	kind:function	line:102
+setting.py	../ProxyPool\proxypool\setting.py	1;"	kind:file	line:1
+setting.py	../myTool\setting.py	1;"	kind:file	line:1
+settings.py	../qianXiMap\qianXiMap\settings.py	1;"	kind:file	line:1
+settings.py	../tutorial\tutorial\settings.py	1;"	kind:file	line:1
+setup	../ProxyPool\setup.py	/^from setuptools import setup$/;"	kind:namespace	line:1
+setup	../itchatResource\ItChat\setup.py	/^from setuptools import setup, find_packages$/;"	kind:namespace	line:6
+setup.py	../ProxyPool\setup.py	1;"	kind:file	line:1
+setup.py	../itchatResource\ItChat\setup.py	1;"	kind:file	line:1
+showOnCmd	../itchatResource\ItChat\itchat\log.py	/^    showOnCmd = True$/;"	kind:variable	line:5
+show_mobile_login	../itchatResource\ItChat\itchat\__init__.py	/^show_mobile_login           = originInstance.show_mobile_login$/;"	kind:variable	line:27
+show_mobile_login	../itchatResource\ItChat\itchat\components\login.py	/^def show_mobile_login(self):$/;"	kind:function	line:223
+show_mobile_login	../itchatResource\ItChat\itchat\core.py	/^    def show_mobile_login(self):$/;"	kind:member	line:108
+signals	../qianXiMap\qianXiMap\middlewares.py	/^from scrapy import signals$/;"	kind:namespace	line:8
+signals	../tutorial\tutorial\middlewares.py	/^from scrapy import signals$/;"	kind:namespace	line:8
+sorted.py	../test\sorted.py	1;"	kind:file	line:1
+spederRe.py	../TBmeishi\spederRe.py	1;"	kind:file	line:1
+spider.py	../TBmeishi\spider.py	1;"	kind:file	line:1
+spider.py	../bingWallPaper\spider.py	1;"	kind:file	line:1
+spider.py	../jiepai\spider.py	1;"	kind:file	line:1
+spider.py	../weixinart\spider.py	1;"	kind:file	line:1
+spiderPro.py	../weixinart\spiderPro.py	1;"	kind:file	line:1
+spider_opened	../qianXiMap\qianXiMap\middlewares.py	/^    def spider_opened(self, spider):$/;"	kind:member	line:55
+spider_opened	../tutorial\tutorial\middlewares.py	/^    def spider_opened(self, spider):$/;"	kind:member	line:55
+sqlite.py	../test\sqlite.py	1;"	kind:file	line:1
+sqlite3	../TBmeishi\spederRe.py	/^import sqlite3$/;"	kind:namespace	line:4
+sqlite3	../TBmeishi\spider.py	/^import sqlite3$/;"	kind:namespace	line:2
+sqlite3	../jiepai\spider.py	/^import sqlite3$/;"	kind:namespace	line:5
+sqlite3	../jiepai\test.py	/^import sqlite3$/;"	kind:namespace	line:2
+sqlite3	../test\crawler.py	/^import sqlite3$/;"	kind:namespace	line:6
+sqlite3	../test\sqlite.py	/^import sqlite3$/;"	kind:namespace	line:2
+start_adr	../qianXiMap\qianXiMap\items.py	/^    start_adr = scrapy.Field()$/;"	kind:variable	line:14
+start_receiving	../itchatResource\ItChat\itchat\__init__.py	/^start_receiving             = originInstance.start_receiving$/;"	kind:variable	line:28
+start_receiving	../itchatResource\ItChat\itchat\components\login.py	/^def start_receiving(self, exitCallback=None, getReceivingFnOnly=False):$/;"	kind:function	line:238
+start_receiving	../itchatResource\ItChat\itchat\core.py	/^    def start_receiving(self, exitCallback=None, getReceivingFnOnly=False):$/;"	kind:member	line:115
+start_requests	../tutorial\tutorial\spiders\quotes.py	/^    def start_requests(self):$/;"	kind:member	line:9
+start_urls	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    start_urls = ['https:\/\/heat.qq.com\/qianxi\/js\/data\/city.js']$/;"	kind:variable	line:17
+std_out_handle	../myTool\Pcolor.py	/^std_out_handle = ctypes.windll.kernel32.GetStdHandle(STD_OUTPUT_HANDLE)$/;"	kind:variable	line:16
+std_out_handle	../test\tool\Pcolor.py	/^std_out_handle = ctypes.windll.kernel32.GetStdHandle(STD_OUTPUT_HANDLE)$/;"	kind:variable	line:16
+std_out_handle	../test\tool\Pcolor_class.py	/^    std_out_handle = ctypes.windll.kernel32.GetStdHandle(STD_OUTPUT_HANDLE)$/;"	kind:variable	line:19
+storage	../itchatResource\ItChat\itchat\core.py	/^from . import config, storage, utils, log$/;"	kind:namespace	line:5
+struct_friend_info	../itchatResource\ItChat\itchat\utils.py	/^def struct_friend_info(knownInfo):$/;"	kind:function	line:100
+subprocess	../itchatResource\ItChat\itchat\utils.py	/^import re, os, sys, subprocess, copy, traceback, logging$/;"	kind:namespace	line:1
+suv_params	../weixinart\test2.py	/^suv_params = {$/;"	kind:variable	line:4
+sync_check	../itchatResource\ItChat\itchat\components\login.py	/^def sync_check(self):$/;"	kind:function	line:288
+sys	../ProxyPool\examples\example.py	/^import sys$/;"	kind:namespace	line:2
+sys	../bingWallPaper\spider.py	/^import sys$/;"	kind:namespace	line:5
+sys	../itchatResource\ItChat\itchat\components\login.py	/^import os, sys, time, re, io$/;"	kind:namespace	line:1
+sys	../itchatResource\ItChat\itchat\components\register.py	/^import logging, traceback, sys, threading$/;"	kind:namespace	line:1
+sys	../itchatResource\ItChat\itchat\returnvalues.py	/^import sys$/;"	kind:namespace	line:2
+sys	../itchatResource\ItChat\itchat\utils.py	/^import re, os, sys, subprocess, copy, traceback, logging$/;"	kind:namespace	line:1
+tempCodeRunnerFile.py	../test\tempCodeRunnerFile.py	1;"	kind:file	line:1
+templates	../itchatResource\ItChat\itchat\components\contact.py	/^from ..storage import contact_change, templates$/;"	kind:namespace	line:9
+templates	../itchatResource\ItChat\itchat\components\hotreload.py	/^from ..storage import templates$/;"	kind:namespace	line:8
+templates	../itchatResource\ItChat\itchat\components\messages.py	/^from ..storage import templates$/;"	kind:namespace	line:11
+templates	../itchatResource\ItChat\itchat\components\register.py	/^from ..storage import templates$/;"	kind:namespace	line:9
+templates.py	../itchatResource\ItChat\itchat\storage\templates.py	1;"	kind:file	line:1
+test	../ProxyPool\proxypool\schedule.py	/^    def test(self):$/;"	kind:member	line:48
+test	../myTool\test.py	/^def test():$/;"	kind:function	line:2
+test	../test\decoratorClass.py	/^    def test(a2=1):$/;"	kind:member	line:15
+test	../test\enclosure.py	/^def test():$/;"	kind:function	line:11
+test	../weixinart\test3.py	/^from myTool.test import test$/;"	kind:namespace	line:6
+test.py	../jiepai\test.py	1;"	kind:file	line:1
+test.py	../myTool\test.py	1;"	kind:file	line:1
+test.py	../test.py	1;"	kind:file	line:1
+test.py	../weixinart\test.py	1;"	kind:file	line:1
+test1.py	../itchat_\test1.py	1;"	kind:file	line:1
+test2.py	../test\concurrent\test2.py	1;"	kind:file	line:1
+test2.py	../test\test2.py	1;"	kind:file	line:1
+test2.py	../weixinart\test2.py	1;"	kind:file	line:1
+test3.py	../weixinart\test3.py	1;"	kind:file	line:1
+testBug.py	../weixinart\testBug.py	1;"	kind:file	line:1
+testClass	../test\decoratorClass.py	/^class testClass:$/;"	kind:class	line:10
+test_api	../ProxyPool\proxypool\schedule.py	/^    test_api = TEST_API$/;"	kind:variable	line:17
+test_connect	../itchatResource\ItChat\itchat\components\register.py	/^from ..utils import test_connect$/;"	kind:namespace	line:8
+test_connect	../itchatResource\ItChat\itchat\utils.py	/^def test_connect(retryTime=5):$/;"	kind:function	line:122
+test_single_proxy	../ProxyPool\proxypool\schedule.py	/^    async def test_single_proxy(self, proxy):$/;"	kind:member	line:27
+the_count	../test\json-lx.py	/^            the_count = the_count + 1$/;"	kind:variable	line:24
+the_count	../test\json-lx.py	/^the_count = 1$/;"	kind:variable	line:9
+threading	../itchatResource\ItChat\itchat\components\login.py	/^import threading$/;"	kind:namespace	line:2
+threading	../itchatResource\ItChat\itchat\components\register.py	/^import logging, traceback, sys, threading$/;"	kind:namespace	line:1
+threading	../test\test2.py	/^import threading$/;"	kind:namespace	line:1
+threading	../weixinart\spiderPro.py	/^import threading$/;"	kind:namespace	line:7
+time	../ProxyPool\examples\example_round_proxy.py	/^import time$/;"	kind:namespace	line:3
+time	../ProxyPool\proxypool\schedule.py	/^import time$/;"	kind:namespace	line:1
+time	../TBmeishi\spider.py	/^import time$/;"	kind:namespace	line:3
+time	../bingWallPaper\spider.py	/^import time$/;"	kind:namespace	line:6
+time	../itchatResource\ItChat\itchat\components\contact.py	/^import os, time, re, io$/;"	kind:namespace	line:1
+time	../itchatResource\ItChat\itchat\components\login.py	/^import os, sys, time, re, io$/;"	kind:namespace	line:1
+time	../itchatResource\ItChat\itchat\components\messages.py	/^import os, time, re, io$/;"	kind:namespace	line:1
+time	../itchatResource\ItChat\itchat\storage\__init__.py	/^import os, time, copy$/;"	kind:namespace	line:1
+time	../jiepai\spider.py	/^import time$/;"	kind:namespace	line:6
+time	../myTool\MsessionReq.py	/^import time$/;"	kind:namespace	line:3
+time	../qianXiMap\qianXiMap\spiders\qianxi.py	/^import time$/;"	kind:namespace	line:3
+time	../test\concurrent\multiprocess.py	/^import time$/;"	kind:namespace	line:3
+time	../test\concurrent\processQueue.py	/^import os, time, random$/;"	kind:namespace	line:2
+time	../test\concurrent\test2.py	/^import time$/;"	kind:namespace	line:3
+time	../test\crawler.py	/^import time$/;"	kind:namespace	line:4
+time	../test\test2.py	/^import time$/;"	kind:namespace	line:3
+time	../weixinart\spider.py	/^import time$/;"	kind:namespace	line:7
+time	../weixinart\spiderPro.py	/^import time$/;"	kind:namespace	line:8
+time	../weixinart\test.py	/^import time$/;"	kind:namespace	line:7
+time	../weixinart\test2.py	/^import time$/;"	kind:namespace	line:3
+time	../weixinart\testBug.py	/^import time$/;"	kind:namespace	line:4
+timedelta	../bingWallPaper\spider.py	/^from datetime import date, timedelta$/;"	kind:namespace	line:10
+timedelta	../qianXiMap\qianXiMap\spiders\qianxi.py	/^from datetime import date, timedelta$/;"	kind:namespace	line:4
+timeit	../TBmeishi\spider.py	/^from timeit import timeit$/;"	kind:namespace	line:4
+traceback	../itchatResource\ItChat\itchat\components\contact.py	/^import traceback, logging$/;"	kind:namespace	line:3
+traceback	../itchatResource\ItChat\itchat\components\hotreload.py	/^import logging, traceback$/;"	kind:namespace	line:2
+traceback	../itchatResource\ItChat\itchat\components\login.py	/^import traceback, logging$/;"	kind:namespace	line:5
+traceback	../itchatResource\ItChat\itchat\components\messages.py	/^import traceback, logging$/;"	kind:namespace	line:4
+traceback	../itchatResource\ItChat\itchat\components\register.py	/^import logging, traceback, sys, threading$/;"	kind:namespace	line:1
+traceback	../itchatResource\ItChat\itchat\utils.py	/^import re, os, sys, subprocess, copy, traceback, logging$/;"	kind:namespace	line:1
+train	../qianXiMap\qianXiMap\items.py	/^    train = scrapy.Field()$/;"	kind:variable	line:18
+tri	../test\generator.py	/^def tri():$/;"	kind:function	line:1
+ua	../ProxyPool\examples\example_round_proxy.py	/^ua = UserAgent()$/;"	kind:variable	line:5
+uniform	../myTool\MsessionReq.py	/^from random import uniform$/;"	kind:namespace	line:5
+uniform	../weixinart\spider.py	/^from random import uniform$/;"	kind:namespace	line:9
+uniform	../weixinart\spiderPro.py	/^from random import uniform$/;"	kind:namespace	line:9
+uniform	../weixinart\test.py	/^from random import uniform$/;"	kind:namespace	line:6
+update	../itchatResource\ItChat\itchat\storage\templates.py	/^    def update(self):$/;"	kind:member	line:148
+update	../itchatResource\ItChat\itchat\storage\templates.py	/^    def update(self):$/;"	kind:member	line:77
+update	../itchatResource\ItChat\itchat\storage\templates.py	/^    def update(self, detailedMember=False):$/;"	kind:member	line:199
+update_chatroom	../itchatResource\ItChat\itchat\__init__.py	/^update_chatroom             = originInstance.update_chatroom$/;"	kind:variable	line:32
+update_chatroom	../itchatResource\ItChat\itchat\components\contact.py	/^def update_chatroom(self, userName, detailedMember=False):$/;"	kind:function	line:30
+update_chatroom	../itchatResource\ItChat\itchat\core.py	/^    def update_chatroom(self, userName, detailedMember=False):$/;"	kind:member	line:145
+update_friend	../itchatResource\ItChat\itchat\__init__.py	/^update_friend               = originInstance.update_friend$/;"	kind:variable	line:33
+update_friend	../itchatResource\ItChat\itchat\components\contact.py	/^def update_friend(self, userName):$/;"	kind:function	line:80
+update_friend	../itchatResource\ItChat\itchat\core.py	/^    def update_friend(self, userName):$/;"	kind:member	line:159
+update_info_dict	../itchatResource\ItChat\itchat\components\contact.py	/^from ..utils import update_info_dict$/;"	kind:namespace	line:10
+update_info_dict	../itchatResource\ItChat\itchat\storage\templates.py	/^from ..utils import update_info_dict$/;"	kind:namespace	line:5
+update_info_dict	../itchatResource\ItChat\itchat\utils.py	/^def update_info_dict(oldInfoDict, newInfoDict):$/;"	kind:function	line:146
+update_local_chatrooms	../itchatResource\ItChat\itchat\components\contact.py	/^def update_local_chatrooms(core, l):$/;"	kind:function	line:103
+update_local_chatrooms	../itchatResource\ItChat\itchat\components\hotreload.py	/^from .contact import update_local_chatrooms, update_local_friends$/;"	kind:namespace	line:9
+update_local_chatrooms	../itchatResource\ItChat\itchat\components\login.py	/^from .contact import update_local_chatrooms, update_local_friends$/;"	kind:namespace	line:17
+update_local_friends	../itchatResource\ItChat\itchat\components\contact.py	/^def update_local_friends(core, l):$/;"	kind:function	line:171
+update_local_friends	../itchatResource\ItChat\itchat\components\hotreload.py	/^from .contact import update_local_chatrooms, update_local_friends$/;"	kind:namespace	line:9
+update_local_friends	../itchatResource\ItChat\itchat\components\login.py	/^from .contact import update_local_chatrooms, update_local_friends$/;"	kind:namespace	line:17
+update_local_uin	../itchatResource\ItChat\itchat\components\contact.py	/^def update_local_uin(core, msg):$/;"	kind:function	line:195
+update_local_uin	../itchatResource\ItChat\itchat\components\messages.py	/^from .contact import update_local_uin$/;"	kind:namespace	line:12
+upload_chunk_file	../itchatResource\ItChat\itchat\components\messages.py	/^def upload_chunk_file(core, fileDir, fileSymbol, fileSize,$/;"	kind:function	line:337
+upload_file	../itchatResource\ItChat\itchat\__init__.py	/^upload_file                 = originInstance.upload_file$/;"	kind:variable	line:49
+upload_file	../itchatResource\ItChat\itchat\components\messages.py	/^def upload_file(self, fileDir, isPicture=False, isVideo=False,$/;"	kind:function	line:303
+upload_file	../itchatResource\ItChat\itchat\core.py	/^    def upload_file(self, fileDir, isPicture=False, isVideo=False,$/;"	kind:member	line:315
+url	../ProxyPool\setup.py	/^    url='https:\/\/github.com\/Germey\/ProxyPool',$/;"	kind:variable	line:10
+url	../itchatResource\ItChat\setup.py	/^    url='https:\/\/github.com\/littlecodersh\/ItChat',$/;"	kind:variable	line:24
+use_proxy	../myTool\MsessionReq.py	/^    use_proxy = IS_USE_PROXY$/;"	kind:variable	line:48
+utils	../itchatResource\ItChat\itchat\components\contact.py	/^from .. import config, utils$/;"	kind:namespace	line:7
+utils	../itchatResource\ItChat\itchat\components\login.py	/^from .. import config, utils$/;"	kind:namespace	line:14
+utils	../itchatResource\ItChat\itchat\components\messages.py	/^from .. import config, utils$/;"	kind:namespace	line:9
+utils	../itchatResource\ItChat\itchat\core.py	/^from . import config, storage, utils, log$/;"	kind:namespace	line:5
+utils.py	../ProxyPool\proxypool\utils.py	1;"	kind:file	line:1
+utils.py	../itchatResource\ItChat\itchat\utils.py	1;"	kind:file	line:1
+valid_proxy	../ProxyPool\proxypool\schedule.py	/^    def valid_proxy(cycle=VALID_CHECK_CYCLE):$/;"	kind:member	line:101
+validate	../weixinart\spider.py	/^def validate(referer_url, err_count=1):$/;"	kind:function	line:46
+validate	../weixinart\spiderPro.py	/^def validate(referer_url, obj, err_count=1):$/;"	kind:function	line:21
+validate	../weixinart\testBug.py	/^def validate(referer_url, err_count=1):$/;"	kind:function	line:8
+validate_img_url	../weixinart\testBug.py	/^validate_img_url = 'http:\/\/weixin.sogou.com\/antispider\/util\/seccode.php'$/;"	kind:variable	line:6
+validate_post_url	../weixinart\testBug.py	/^validate_post_url = 'http:\/\/weixin.sogou.com\/antispider\/thank.php'$/;"	kind:variable	line:5
+verify	../itchatResource\ItChat\itchat\storage\templates.py	/^    def verify(self):$/;"	kind:member	line:157
+verify	../itchatResource\ItChat\itchat\storage\templates.py	/^    def verify(self):$/;"	kind:member	line:92
+version	../ProxyPool\setup.py	/^    version='1.0.0',$/;"	kind:variable	line:5
+version	../itchatResource\ItChat\setup.py	/^    version=itchat.__version__,$/;"	kind:variable	line:19
+w	../test\weight.py	/^w = float(input("请输入体重(千克):"))$/;"	kind:variable	line:2
+wait	../TBmeishi\spider.py	/^wait = WebDriverWait(driver, 10)$/;"	kind:variable	line:23
+wb	../test\json-lx.py	/^    wb = openpyxl.Workbook()$/;"	kind:variable	line:7
+wb	../test\json-lx.py	/^    wb = openpyxl.load_workbook('d:\\\\pythonData\\\\qianxi1.xlsx')$/;"	kind:variable	line:5
+web_init	../itchatResource\ItChat\itchat\__init__.py	/^web_init                    = originInstance.web_init$/;"	kind:variable	line:26
+web_init	../itchatResource\ItChat\itchat\components\login.py	/^def web_init(self):$/;"	kind:function	line:187
+web_init	../itchatResource\ItChat\itchat\core.py	/^    def web_init(self):$/;"	kind:member	line:98
+webdriver	../TBmeishi\spider.py	/^from selenium import webdriver$/;"	kind:namespace	line:10
+wechat.py	../itchat_\wechat.py	1;"	kind:file	line:1
+weight.py	../test\weight.py	1;"	kind:file	line:1
+width	../test\property.py	/^    def width(self):$/;"	kind:member	line:3
+width	../test\property.py	/^    def width(self, value):$/;"	kind:member	line:6
+wrap	../test\decoratorClass.py	/^            def wrap(self, *arg, **kwarg):$/;"	kind:function	line:18
+wrap_user_dict	../itchatResource\ItChat\itchat\components\login.py	/^from ..storage.templates import wrap_user_dict$/;"	kind:namespace	line:16
+wrap_user_dict	../itchatResource\ItChat\itchat\storage\templates.py	/^def wrap_user_dict(d):$/;"	kind:function	line:306
+wrapper	../test\decorator_test.py	/^        def wrapper(*args, **kw):$/;"	kind:function	line:7
+wraps	../myTool\MsessionReq.py	/^from functools import wraps$/;"	kind:namespace	line:4
+write	../test\concurrent\multiprocess.py	/^def write(q):$/;"	kind:function	line:9
+write	../test\concurrent\processQueue.py	/^def write(q):$/;"	kind:function	line:5
+ws	../test\json-lx.py	/^            ws = wb.create_sheet(line['date'])$/;"	kind:variable	line:17
+ws	../test\json-lx.py	/^            ws = wb.get_sheet_by_name(line['date'])$/;"	kind:variable	line:15
+xml	../itchatResource\ItChat\itchat\components\login.py	/^import json, xml.dom.minidom$/;"	kind:namespace	line:3
+yesterday	../qianXiMap\qianXiMap\spiders\qianxi.py	/^    yesterday = (date.today() - timedelta(1)).strftime('%Y%m%d')$/;"	kind:variable	line:15
+zip_safe	../ProxyPool\setup.py	/^    zip_safe=False,$/;"	kind:variable	line:28
